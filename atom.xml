@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-10T14:04:58.240Z</updated>
+    <updated>2020-04-10T14:20:16.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://you.ci"/>
     <link rel="self" href="http://you.ci/atom.xml"/>
@@ -71,6 +71,7 @@ ossfs [Bucket空间名] [挂载路径] -ourl=[https://OSS域名]
 在PRUNEFS =后面加上fuse.ossfs<br>
 在PRUNEPATHS =后面加上挂载的目录</p>
 <p>感谢:<a href="https://www.jianshu.com/p/30e754bd50f9">https://www.jianshu.com/p/30e754bd50f9</a><br>
+还有:<a href="https://www.cnblogs.com/hnhycnlc888/p/12170476.html">https://www.cnblogs.com/hnhycnlc888/p/12170476.html</a><br>
 ❤️</p>
 ]]></content>
     </entry>
