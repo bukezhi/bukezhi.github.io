@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-10T10:41:58.984Z</updated>
+    <updated>2020-04-10T14:04:58.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://you.ci"/>
     <link rel="self" href="http://you.ci/atom.xml"/>
@@ -10,6 +10,70 @@
     <logo>http://you.ci/images/avatar.png</logo>
     <icon>http://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[ECS使用ossfs工具挂载阿里云oss]]></title>
+        <id>http://you.ci/post/jfVWs6zzu/</id>
+        <link href="http://you.ci/post/jfVWs6zzu/">
+        </link>
+        <updated>2020-04-10T12:34:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>研究了很久,始终是无法明白,这个就吃了没有文化的亏,因为不怎么懂linux命令代码,自己部署下来很吃力.<br>
+后来在简书上看到教程,于是学着弄,还是不行,于是网上找了一位老师,支付一些费用,协助挂载完成.几分钟后,算是成功了.<br>
+🤼‍♂<br>
+价值200元的安装教程,笑纳.<br>
+🚴<br>
+准备工具:ECS一台,不得不说,现在阿里云直接网页版提供远程连接,越来越人性化,越来越方便.<br>
+系统安装:linux系统.Centos7.*系统吧,目前宝塔面板仅仅支持7.X系统.<br>
+🎷<br>
+暂时将服务器环境安装完毕:AMP</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>研究了很久,始终是无法明白,这个就吃了没有文化的亏,因为不怎么懂linux命令代码,自己部署下来很吃力.<br>
+后来在简书上看到教程,于是学着弄,还是不行,于是网上找了一位老师,支付一些费用,协助挂载完成.几分钟后,算是成功了.<br>
+🤼‍♂<br>
+价值200元的安装教程,笑纳.<br>
+🚴<br>
+准备工具:ECS一台,不得不说,现在阿里云直接网页版提供远程连接,越来越人性化,越来越方便.<br>
+系统安装:linux系统.Centos7.*系统吧,目前宝塔面板仅仅支持7.X系统.<br>
+🎷<br>
+暂时将服务器环境安装完毕:AMP</p>
+<!-- more -->
+<hr>
+<p>第一步:安装依赖包</p>
+<pre><code class="language-javascript">yum install -y automake gcc-c++ git libcurl-devel libxml2-devel fuse-devel make openssl-devel
+</code></pre>
+<p>第二步:依次运行如下代码下载源码包编译</p>
+<pre><code class="language-javascript">git clone https://github.com/aliyun/ossfs.git
+cd ossfs
+./autogen.sh
+./configure
+make &amp;&amp; make install
+</code></pre>
+<p>第三步:依次运行配置阿里云OSS秘钥,配置权限</p>
+<pre><code class="language-javascript">echo Bucket名称:AccessKey ID:Access Key Secret &gt; /etc/passwd-ossfs
+chmod 640 /etc/passwd-ossfs
+</code></pre>
+<p>例:echo wangzhan:LTAI4Fi5udZoCrfGMUq:itGad0BuLS8glE3KM &gt; /etc/passwd-ossfs</p>
+<p>第四步:建立文件夹,并将OSS的<strong>Bucket 名称</strong>挂载到**/home/ossfs**目录下</p>
+<pre><code class="language-javascript">cd
+mkdir /home/ossfs
+ossfs [Bucket空间名] [挂载路径] -ourl=[https://OSS域名]
+</code></pre>
+<p>例:ossfs sdfads /home/ossfs -ourl=http://oss-cn-wuhan.aliyuncs.com</p>
+<p>到这里就挂载成功了.<br>
+因为是外网访问,速度很慢,在阿里云同一地域的ECS与OSS下,可以使用内网域名挂载,免流量.</p>
+<p>开机启动自动挂载:在/etc/rc.local中添加：</p>
+<pre><code class="language-javascript">ossfs Bucket空间名 /home/ossfs -ourl=https://OSS域名 Bucket空间名 -o allow_other
+</code></pre>
+<p>其他看不懂的部分:<br>
+卸载命令：umount /home/Bucket空间名/ 或者 fusermount -u /home/Bucket空间名/</p>
+<p><strong>非阿里云ECS挂载注意事项</strong><br>
+为避免后台程序扫描oss文件导致产生费用，如果是updatedb可以通过修改/etc/updatedb.conf让它跳过。<br>
+具体做法是：<br>
+在PRUNEFS =后面加上fuse.ossfs<br>
+在PRUNEPATHS =后面加上挂载的目录</p>
+<p>感谢:<a href="https://www.jianshu.com/p/30e754bd50f9">https://www.jianshu.com/p/30e754bd50f9</a><br>
+❤️</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有次博客折腾记录:代码托管到Github]]></title>
         <id>http://you.ci/post/C_UYNn0rS/</id>
@@ -1513,42 +1577,6 @@ https://crash-logs.ml/</p>
 但是，会去做下。<br>
 方便阅读。</p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的网络启蒙站点：爱迪免费个人主页]]></title>
-        <id>http://you.ci/post/YZqpjsS1g/</id>
-        <link href="http://you.ci/post/YZqpjsS1g/">
-        </link>
-        <updated>2020-03-29T07:45:15.000Z</updated>
-        <summary type="html"><![CDATA[<p>有次，倒是记起来了这个域名：ID666.COM，爱迪免费个人主页。想着记录一下，以免忘记了。</p>
-<p>大学那会，不知道看哪位同学建立了自己的个人主页，于是我也入住了爱迪，建立网络生涯中第一个个人主页。</p>
-<p>那会的主页，可以插入一些音乐，可以放些多彩的文字，弄些花里花哨的东西，记得当时放的背景音乐是《冬季来台北看雨》和《风中有朵雨中的云》。<br>
-那会有个人主页，倒是会讨女同学欢心的。</p>
-<p>后来，爱迪推出了论坛业务，好像记得是199元终身免费论坛，那会的我，跑去邮局汇款，申请了一个免费论坛，建立了一个学校的讨论区，于是每天纸质广告散发在学校各大广告区域。<br>
-论坛成为了学校唯一的讨论点。<br>
-倒是学校没有人知道论坛是我建立的。</p>
-<p>当年的大旗网（www.daqi.com）是做论坛聚合的，联系网站，每月支付300元费用，挂上他们的广告，于是，大学4年，应该还是每月都有那300元，日子过得算是十分潇洒。<br>
-那时候的300元，很多，2-3个人吃个比较可以的火锅也就20/30元吧。<br>
-肥牛卷2-3元一盘。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>有次，倒是记起来了这个域名：ID666.COM，爱迪免费个人主页。想着记录一下，以免忘记了。</p>
-<p>大学那会，不知道看哪位同学建立了自己的个人主页，于是我也入住了爱迪，建立网络生涯中第一个个人主页。</p>
-<p>那会的主页，可以插入一些音乐，可以放些多彩的文字，弄些花里花哨的东西，记得当时放的背景音乐是《冬季来台北看雨》和《风中有朵雨中的云》。<br>
-那会有个人主页，倒是会讨女同学欢心的。</p>
-<p>后来，爱迪推出了论坛业务，好像记得是199元终身免费论坛，那会的我，跑去邮局汇款，申请了一个免费论坛，建立了一个学校的讨论区，于是每天纸质广告散发在学校各大广告区域。<br>
-论坛成为了学校唯一的讨论点。<br>
-倒是学校没有人知道论坛是我建立的。</p>
-<p>当年的大旗网（www.daqi.com）是做论坛聚合的，联系网站，每月支付300元费用，挂上他们的广告，于是，大学4年，应该还是每月都有那300元，日子过得算是十分潇洒。<br>
-那时候的300元，很多，2-3个人吃个比较可以的火锅也就20/30元吧。<br>
-肥牛卷2-3元一盘。</p>
-<!-- more -->
-<p>目前的爱迪网，多数已经不能访问了，当年的大旗网，也销声匿迹了。<br>
-而我的个人主页，论坛，也找不到了。<br>
-爱迪网承载了很多大学时候的记忆，因为爱迪网，开始注册域名，开始就喜欢注册net域名，结果后来com成功了主流域名，后来推出mobi域名，倒是没有成功主流，却当年抢注了不少世界500强公司的mobi域名。<br>
-喜欢投机倒把么？<br>
-愿爱迪网永存！<br>
-<img src="http://you.ci/post-images/1586418336863.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
