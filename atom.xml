@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bukezhi.github.io</id>
+    <id>http://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-10T09:46:43.616Z</updated>
+    <updated>2020-04-10T09:54:38.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bukezhi.github.io"/>
-    <link rel="self" href="https://bukezhi.github.io/atom.xml"/>
+    <link rel="alternate" href="http://you.ci"/>
+    <link rel="self" href="http://you.ci/atom.xml"/>
     <subtitle>&lt;img src=&quot;https://v2.jinrishici.com/one.svg?font-size=22&amp;spacing=2&amp;color=white&quot;&gt;</subtitle>
-    <logo>https://bukezhi.github.io/images/avatar.png</logo>
-    <icon>https://bukezhi.github.io/favicon.ico</icon>
+    <logo>http://you.ci/images/avatar.png</logo>
+    <icon>http://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
     <entry>
         <title type="html"><![CDATA[几个Windows本地使用的环境面板]]></title>
-        <id>https://bukezhi.github.io/post/QKK-m3ayf/</id>
-        <link href="https://bukezhi.github.io/post/QKK-m3ayf/">
+        <id>http://you.ci/post/QKK-m3ayf/</id>
+        <link href="http://you.ci/post/QKK-m3ayf/">
         </link>
         <updated>2020-04-07T07:55:26.000Z</updated>
         <summary type="html"><![CDATA[<p>phpstudy：xp.cn<br>
@@ -30,8 +30,8 @@ PHPWAMP：phpwamp.com<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020.4.4全国哀悼]]></title>
-        <id>https://bukezhi.github.io/post/-DOK5oxBW/</id>
-        <link href="https://bukezhi.github.io/post/-DOK5oxBW/">
+        <id>http://you.ci/post/-DOK5oxBW/</id>
+        <link href="http://you.ci/post/-DOK5oxBW/">
         </link>
         <updated>2020-04-04T07:54:28.000Z</updated>
         <summary type="html"><![CDATA[<p>今天是灰色的。<br>
@@ -46,8 +46,8 @@ PHPWAMP：phpwamp.com<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[勤能补拙 高尔夫开始萌芽腰部发力了]]></title>
-        <id>https://bukezhi.github.io/post/Dv8FetQno/</id>
-        <link href="https://bukezhi.github.io/post/Dv8FetQno/">
+        <id>http://you.ci/post/Dv8FetQno/</id>
+        <link href="http://you.ci/post/Dv8FetQno/">
         </link>
         <updated>2020-04-03T07:53:58.000Z</updated>
         <summary type="html"><![CDATA[<p>晚上吃完饭练习了一会球。<br>
@@ -68,8 +68,8 @@ PHPWAMP：phpwamp.com<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[国际上是否也认可国别域名呢？]]></title>
-        <id>https://bukezhi.github.io/post/ol9gG89Bi/</id>
-        <link href="https://bukezhi.github.io/post/ol9gG89Bi/">
+        <id>http://you.ci/post/ol9gG89Bi/</id>
+        <link href="http://you.ci/post/ol9gG89Bi/">
         </link>
         <updated>2020-04-01T07:51:56.000Z</updated>
         <summary type="html"><![CDATA[<p>我们本地有很知名的服装加工基地，有完善的产业链。<br>
@@ -90,13 +90,13 @@ you.ci<br>
 昨天想了很久，注册了一个。<br>
 批发.展示<br>
 wholesale-show<br>
-<img src="https://bukezhi.github.io/post-images/1586418806453.jpg" alt="" loading="lazy"></p>
+<img src="http://you.ci/post-images/1586418806453.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[批发平台网址汇总（经销商可以入驻）]]></title>
-        <id>https://bukezhi.github.io/post/qeT-J0_23/</id>
-        <link href="https://bukezhi.github.io/post/qeT-J0_23/">
+        <id>http://you.ci/post/qeT-J0_23/</id>
+        <link href="http://you.ci/post/qeT-J0_23/">
         </link>
         <updated>2020-03-31T07:50:28.000Z</updated>
         <summary type="html"><![CDATA[<p>阿里巴巴（综合）<br>
@@ -144,8 +144,8 @@ wholesale-show<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[似水流年是一个人所有的一切，只有这个东西，才真正归你所有]]></title>
-        <id>https://bukezhi.github.io/post/ZLReUvmMU/</id>
-        <link href="https://bukezhi.github.io/post/ZLReUvmMU/">
+        <id>http://you.ci/post/ZLReUvmMU/</id>
+        <link href="http://you.ci/post/ZLReUvmMU/">
         </link>
         <updated>2020-03-31T07:49:31.000Z</updated>
         <summary type="html"><![CDATA[<p>在路上博客上分享的广告视频，确实拍的很好。<br>
@@ -160,8 +160,8 @@ wholesale-show<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[简单收集了1309个独立博客，作为每日阅读来源]]></title>
-        <id>https://bukezhi.github.io/post/ZYXCWAXzv/</id>
-        <link href="https://bukezhi.github.io/post/ZYXCWAXzv/">
+        <id>http://you.ci/post/ZYXCWAXzv/</id>
+        <link href="http://you.ci/post/ZYXCWAXzv/">
         </link>
         <updated>2020-03-30T07:48:19.000Z</updated>
         <summary type="html"><![CDATA[<p>通过互联网收集，将拥有独立域名，并可以访问的博客归类总结，整理了一个下午加一个晚上，整理了1309个博客。<br>
@@ -1449,8 +1449,8 @@ https://crash-logs.ml/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[最近的想法：采集感兴趣的博客归类到一页展示，方便阅读]]></title>
-        <id>https://bukezhi.github.io/post/QrkZ8NAhB/</id>
-        <link href="https://bukezhi.github.io/post/QrkZ8NAhB/">
+        <id>http://you.ci/post/QrkZ8NAhB/</id>
+        <link href="http://you.ci/post/QrkZ8NAhB/">
         </link>
         <updated>2020-03-29T07:47:15.000Z</updated>
         <summary type="html"><![CDATA[<p>经常去看朋友们的博客，但是很多博客一晃，几个月也不更新一下。<br>
@@ -1487,8 +1487,8 @@ https://crash-logs.ml/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的网络启蒙站点：爱迪免费个人主页]]></title>
-        <id>https://bukezhi.github.io/post/YZqpjsS1g/</id>
-        <link href="https://bukezhi.github.io/post/YZqpjsS1g/">
+        <id>http://you.ci/post/YZqpjsS1g/</id>
+        <link href="http://you.ci/post/YZqpjsS1g/">
         </link>
         <updated>2020-03-29T07:45:15.000Z</updated>
         <summary type="html"><![CDATA[<p>有次，倒是记起来了这个域名：ID666.COM，爱迪免费个人主页。想着记录一下，以免忘记了。</p>
@@ -1518,13 +1518,13 @@ https://crash-logs.ml/</p>
 爱迪网承载了很多大学时候的记忆，因为爱迪网，开始注册域名，开始就喜欢注册net域名，结果后来com成功了主流域名，后来推出mobi域名，倒是没有成功主流，却当年抢注了不少世界500强公司的mobi域名。<br>
 喜欢投机倒把么？<br>
 愿爱迪网永存！<br>
-<img src="https://bukezhi.github.io/post-images/1586418336863.png" alt="" loading="lazy"></p>
+<img src="http://you.ci/post-images/1586418336863.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[降低杠杆]]></title>
-        <id>https://bukezhi.github.io/post/SfEDkRfKX/</id>
-        <link href="https://bukezhi.github.io/post/SfEDkRfKX/">
+        <id>http://you.ci/post/SfEDkRfKX/</id>
+        <link href="http://you.ci/post/SfEDkRfKX/">
         </link>
         <updated>2020-03-27T07:43:40.000Z</updated>
         <summary type="html"><![CDATA[<p>目前负债只有不到4wUSD了，整体账户只有不到10%的杠杆，应该来说，账户安全了。<br>
@@ -1547,9 +1547,9 @@ https://crash-logs.ml/</p>
 <!-- more -->
 <p><strong>以后加仓，开始仓位不要太重，留着子弹，分批，分期加仓.</strong></p>
 <p>抵押型REITs股票MFA暴跌90%+。</p>
-<figure data-type="image" tabindex="1"><img src="https://bukezhi.github.io/post-images/1586418253149.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://you.ci/post-images/1586418253149.jpg" alt="" loading="lazy"></figure>
 <p>3.27全球股市应该又是黑色星期五了。</p>
-<figure data-type="image" tabindex="2"><img src="https://bukezhi.github.io/post-images/1586418257432.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://you.ci/post-images/1586418257432.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
