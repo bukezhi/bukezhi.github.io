@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-10T10:10:08.184Z</updated>
+    <updated>2020-04-10T10:41:58.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://you.ci"/>
     <link rel="self" href="http://you.ci/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>http://you.ci/images/avatar.png</logo>
     <icon>http://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[有次博客折腾记录:代码托管到Github]]></title>
+        <id>http://you.ci/post/C_UYNn0rS/</id>
+        <link href="http://you.ci/post/C_UYNn0rS/">
+        </link>
+        <updated>2020-04-10T10:27:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>比较喜欢静态网站的原因是因为安全.<br>
+黑客无法攻破,没有漏洞,访问速度快速.</p>
+<p>最初的想法,是将博客内容托管到阿里云的OSS,也实现了这个功能,但是有个比较大的问题是,每次同步稍微麻烦一些.<br>
+后来就干脆点,暂时放到免费的Github.<br>
+然后再使用阿里云的全站加速,估计访问速度也是很快的.</p>
+<p>网站不会被挂马,不会程序崩溃,本地也有一份html备份.博客让人放心.</p>
+<p><strong>博客的系统采用的是Gridea</strong>,看起来也很酷,使用的是markdown语法,也很酷.😏</p>
+<p>纯静态也有一些bug,比如交互评论,功能方面.页面也繁多.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>比较喜欢静态网站的原因是因为安全.<br>
+黑客无法攻破,没有漏洞,访问速度快速.</p>
+<p>最初的想法,是将博客内容托管到阿里云的OSS,也实现了这个功能,但是有个比较大的问题是,每次同步稍微麻烦一些.<br>
+后来就干脆点,暂时放到免费的Github.<br>
+然后再使用阿里云的全站加速,估计访问速度也是很快的.</p>
+<p>网站不会被挂马,不会程序崩溃,本地也有一份html备份.博客让人放心.</p>
+<p><strong>博客的系统采用的是Gridea</strong>,看起来也很酷,使用的是markdown语法,也很酷.😏</p>
+<p>纯静态也有一些bug,比如交互评论,功能方面.页面也繁多.</p>
+<!-- more -->
+<p>有次博客的背景图每天是更新的,调用的是bing的最新图片,并在首页调用了今日诗词的诗句.</p>
+<p><s>我的博客,有次博客.</s></p>
+<p>🥂</p>
+<figure data-type="image" tabindex="1"><img src="http://you.ci/post-images/1586515293333.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[几个Windows本地使用的环境面板]]></title>
         <id>http://you.ci/post/QKK-m3ayf/</id>
@@ -1519,37 +1549,6 @@ https://crash-logs.ml/</p>
 喜欢投机倒把么？<br>
 愿爱迪网永存！<br>
 <img src="http://you.ci/post-images/1586418336863.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[降低杠杆]]></title>
-        <id>http://you.ci/post/SfEDkRfKX/</id>
-        <link href="http://you.ci/post/SfEDkRfKX/">
-        </link>
-        <updated>2020-03-27T07:43:40.000Z</updated>
-        <summary type="html"><![CDATA[<p>目前负债只有不到4wUSD了，整体账户只有不到10%的杠杆，应该来说，账户安全了。<br>
-除非所有持股的股票都暴跌90%以上，应该是不可能的吧。</p>
-<p>杠杆主要来自对美联航的加仓，从50开始，47,32,27不断加仓，主要是50的仓位最重，导致账户一度杠杆过高。<br>
-平仓LMT，反弹后，350附近平仓部分仓位。<br>
-平仓部分之前加仓的美联航股票，算是盈利的部分，降低杠杆。<br>
-今日全球股市有开始暴跌，风险在度来临。<br>
-股票市场，REITs一度暴跌90%以上，一度被认为比较好的风险不高的投资产品，也可以跌90%+。<br>
-风险意识很重要。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>目前负债只有不到4wUSD了，整体账户只有不到10%的杠杆，应该来说，账户安全了。<br>
-除非所有持股的股票都暴跌90%以上，应该是不可能的吧。</p>
-<p>杠杆主要来自对美联航的加仓，从50开始，47,32,27不断加仓，主要是50的仓位最重，导致账户一度杠杆过高。<br>
-平仓LMT，反弹后，350附近平仓部分仓位。<br>
-平仓部分之前加仓的美联航股票，算是盈利的部分，降低杠杆。<br>
-今日全球股市有开始暴跌，风险在度来临。<br>
-股票市场，REITs一度暴跌90%以上，一度被认为比较好的风险不高的投资产品，也可以跌90%+。<br>
-风险意识很重要。</p>
-<!-- more -->
-<p><strong>以后加仓，开始仓位不要太重，留着子弹，分批，分期加仓.</strong></p>
-<p>抵押型REITs股票MFA暴跌90%+。</p>
-<figure data-type="image" tabindex="1"><img src="http://you.ci/post-images/1586418253149.jpg" alt="" loading="lazy"></figure>
-<p>3.27全球股市应该又是黑色星期五了。</p>
-<figure data-type="image" tabindex="2"><img src="http://you.ci/post-images/1586418257432.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
