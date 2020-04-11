@@ -19,6 +19,7 @@
   <link href="/styles/main.css" rel="stylesheet">
   <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/highlight.min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
   <script>hljs.initHighlightingOnLoad();</script>
   
 
@@ -134,6 +135,17 @@
 <p><strong>待我了无牵挂，深山老屋为家，忙时修篱种草，闲事小酒清茶。</strong></p>
 
           
+	  <br><br>
+  <!-- pinglun -->
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '<API_ID>',
+            appKey: '<API_Key>'
+        })
+    </script>
+  <!-- pinglun -->
           <p class="next-post">下一篇：
             <a href="http://you.ci/post/ACe0lUghS/">
               <span class="post-title">

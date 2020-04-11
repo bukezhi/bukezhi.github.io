@@ -19,6 +19,7 @@
   <link href="/styles/main.css" rel="stylesheet">
   <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/highlight.min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
   <script>hljs.initHighlightingOnLoad();</script>
   
 
@@ -113,6 +114,17 @@
 正因为有一个好域名，就会觉得，这个互联网项目，应该用些心思去完成。</p>
 
           
+	  <br><br>
+  <!-- pinglun -->
+<div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '<API_ID>',
+            appKey: '<API_Key>'
+        })
+    </script>
+  <!-- pinglun -->
           <p class="next-post">下一篇：
             <a href="http://you.ci/post/0lwSO9xjx/">
               <span class="post-title">
