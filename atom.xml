@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-12T01:46:17.470Z</updated>
+    <updated>2020-04-12T01:48:52.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://you.ci"/>
     <link rel="self" href="http://you.ci/atom.xml"/>
@@ -16,12 +16,20 @@
         <link href="http://you.ci/post/mPuS5_vkm/">
         </link>
         <updated>2020-04-12T01:38:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>博客静态页面虽然免费托管在Github，但是听说，Github拒绝搜索引擎蜘蛛。<br>
+其次，图片打开速度很慢。<br>
+于是启用了阿里云的全站加速（仅仅加速海外部分不用备案）。<br>
+这样一来，访问速度很快了。</p>
+<p>目前打开有次博客，速度应该是搜搜滴。<br>
+😎</p>
+]]></summary>
         <content type="html"><![CDATA[<p>博客静态页面虽然免费托管在Github，但是听说，Github拒绝搜索引擎蜘蛛。<br>
 其次，图片打开速度很慢。<br>
 于是启用了阿里云的全站加速（仅仅加速海外部分不用备案）。<br>
 这样一来，访问速度很快了。</p>
 <p>目前打开有次博客，速度应该是搜搜滴。<br>
 😎</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
