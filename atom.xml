@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-15T08:26:04.667Z</updated>
+    <updated>2020-04-16T06:10:20.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://you.ci"/>
     <link rel="self" href="http://you.ci/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>http://you.ci/images/avatar.png</logo>
     <icon>http://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[分享：Typecho博客系统防黑客教程（Typecho安全加固指南）]]></title>
+        <id>http://you.ci/post/4vHjJodh8/</id>
+        <link href="http://you.ci/post/4vHjJodh8/">
+        </link>
+        <updated>2020-04-16T06:01:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>网站如果被黑，心情是糟糕的，打算商业博客使用的是Typecho系统，php+mysql，php一般安全度不高，特别是使用多的博客系统。<br>
+简单做一下安全。<a href="https://www.wubo.net.cn/security/typecho_security.html">设置教程</a><br>
+不得不说，Typecho有些模板真是好看。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>网站如果被黑，心情是糟糕的，打算商业博客使用的是Typecho系统，php+mysql，php一般安全度不高，特别是使用多的博客系统。<br>
+简单做一下安全。<a href="https://www.wubo.net.cn/security/typecho_security.html">设置教程</a><br>
+不得不说，Typecho有些模板真是好看。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信心不足]]></title>
         <id>http://you.ci/post/nwF1rOzsw/</id>
@@ -294,28 +310,6 @@ PHPWAMP：phpwamp.com<br>
         <content type="html"><![CDATA[<p>今天是灰色的。<br>
 疫情，改变了我们的生活。<br>
 多苦多难只会让人更爱它。</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勤能补拙 高尔夫开始萌芽腰部发力了]]></title>
-        <id>http://you.ci/post/Dv8FetQno/</id>
-        <link href="http://you.ci/post/Dv8FetQno/">
-        </link>
-        <updated>2020-04-03T07:53:58.000Z</updated>
-        <summary type="html"><![CDATA[<p>晚上吃完饭练习了一会球。<br>
-开始有感觉是腰部发力了，球也打的感觉不错。<br>
-勤能补拙啊，不停的练习，总会悟出一些进步。<br>
-手痛了好几天。<br>
-还要接着练习。<br>
-哪天信手拈来，才好。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>晚上吃完饭练习了一会球。<br>
-开始有感觉是腰部发力了，球也打的感觉不错。<br>
-勤能补拙啊，不停的练习，总会悟出一些进步。<br>
-手痛了好几天。<br>
-还要接着练习。<br>
-哪天信手拈来，才好。</p>
 <!-- more -->
 ]]></content>
     </entry>
