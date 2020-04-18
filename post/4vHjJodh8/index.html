@@ -141,8 +141,8 @@ RewriteRule ^(.*)$ /index.php/$1 [L]
 RewriteRule ^(.*)$ index.php [E=PATH_INFO:$1]
 RewriteRule (var|usr)(.+ph*)$ index.php [E=PATH_INFO:$1]
 RewriteRule (config.inc.php|.htaccess)$ index.php [L,E=PATH_INFO:$1]
-RewriteCond %{HTTP_HOST} ^www.fenhan.net
-RewriteRule (.*) https://fenhan.net/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^www.***.net
+RewriteRule (.*) https://***.net/$1 [R=301,L]
 &lt;/IfModule&gt;
 </code></pre>
 <p>新建.htaccess文件添加以上内容，上传到你typecho博客的根目录就可以了。</p>
