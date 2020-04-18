@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-17T09:42:15.776Z</updated>
+    <updated>2020-04-18T00:47:40.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://you.ci"/>
     <link rel="self" href="http://you.ci/atom.xml"/>
@@ -59,6 +59,56 @@ mysql始终始终无法启动。<br>
 简单做一下安全。<a href="https://www.wubo.net.cn/security/typecho_security.html">设置教程</a><br>
 不得不说，Typecho有些模板真是好看。</p>
 <!-- more -->
+<p>1、删除安装文件<br>
+成功安装后删除install.php文件、install/文件夹。</p>
+<p>2、修改后台地址<br>
+把admin修改为黑客猜不到的名字，例如bilibili，防止黑客穷举密码。</p>
+<p>3、修改admin文件夹名称<br>
+修改admin文件夹名称为你喜欢的名称，例如bilibili</p>
+<p>修改配置文件以适配修改后的admin路径<br>
+修改config.inc.php<br>
+修改为以下代码，我就当修改为bilibili了。</p>
+<p>/** 后台路径(相对路径) */<br>
+define('<strong>TYPECHO_ADMIN_DIR</strong>', '/bilibili/');<br>
+好了。现在你可以访问你的域名/bilibili/了。这就是你的新的后台地址，原来的你的域名/admin/已经不能访问了。</p>
+<p>4、屏蔽usr、var目录下php文件的访问<br>
+屏蔽usr、var目录下php文件的访问可以阻止黑客访问到他上传的php木马。<br>
+我们利用Rewrite伪静态机制来做。我这里以Apache服务器为例，大部分虚拟主机都是Apache。LiteSpeed Web Server也使用的是Apache的规则。<br>
+我们同时屏蔽config.inc.php和.htaccess的访问。<br>
+屏蔽原理就是把要屏蔽的请求重定向到首页文件，首页文件会当成文章名来解析，没有同名文章就会返回404未找到。所以就算黑客上传了木马也只会得到404未找到的响应。</p>
+<p>文件名：.htaccess</p>
+<pre><code class="language-javascript">&lt;IfModule mod_rewrite.c&gt;
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php [E=PATH_INFO:$1]
+    RewriteRule (var|usr)(.+ph*)$ index.php [E=PATH_INFO:$1]
+    RewriteRule (config.inc.php|.htaccess)$ index.php [L,E=PATH_INFO:$1]
+&lt;/IfModule&gt;
+</code></pre>
+<p>我是如下设置的：1、屏蔽网址中带有index.php。2、做了www转跳到非www的根目录。3、安全。</p>
+<pre><code class="language-javascript">&lt;IfModule mod_rewrite.c&gt;
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php/$1 [L]
+RewriteRule ^(.*)$ index.php [E=PATH_INFO:$1]
+RewriteRule (var|usr)(.+ph*)$ index.php [E=PATH_INFO:$1]
+RewriteRule (config.inc.php|.htaccess)$ index.php [L,E=PATH_INFO:$1]
+RewriteCond %{HTTP_HOST} ^www.fenhan.net
+RewriteRule (.*) https://fenhan.net/$1 [R=301,L]
+&lt;/IfModule&gt;
+</code></pre>
+<p>新建.htaccess文件添加以上内容，上传到你typecho博客的根目录就可以了。</p>
+<p>2019.07.14更新：新增Nginx规则<br>
+此规则原理同上，经测试Nginx和OpenResty下可用。</p>
+<pre><code>if (!-e $request_filename) {
+    rewrite ^(.*)$ /index.php$1;
+}
+rewrite /(var|usr)(.+ph*)$ /index.php;
+rewrite /(config.inc.php|.htaccess)$ /index.php last;</code></pre>
 ]]></content>
     </entry>
     <entry>
