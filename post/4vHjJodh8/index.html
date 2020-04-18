@@ -107,7 +107,7 @@
 成功安装后删除install.php文件、install/文件夹。</p>
 <p>2、修改后台地址<br>
 把admin修改为黑客猜不到的名字，例如bilibili，防止黑客穷举密码。</p>
-<p>3、修改admin文件夹名称<br>
+<p>修改admin文件夹名称<br>
 修改admin文件夹名称为你喜欢的名称，例如bilibili</p>
 <p>修改配置文件以适配修改后的admin路径<br>
 修改config.inc.php<br>
@@ -115,7 +115,7 @@
 <p>/** 后台路径(相对路径) */<br>
 define('<strong>TYPECHO_ADMIN_DIR</strong>', '/bilibili/');<br>
 好了。现在你可以访问你的域名/bilibili/了。这就是你的新的后台地址，原来的你的域名/admin/已经不能访问了。</p>
-<p>4、屏蔽usr、var目录下php文件的访问<br>
+<p>3、屏蔽usr、var目录下php文件的访问<br>
 屏蔽usr、var目录下php文件的访问可以阻止黑客访问到他上传的php木马。<br>
 我们利用Rewrite伪静态机制来做。我这里以Apache服务器为例，大部分虚拟主机都是Apache。LiteSpeed Web Server也使用的是Apache的规则。<br>
 我们同时屏蔽config.inc.php和.htaccess的访问。<br>
