@@ -138,7 +138,6 @@ RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ /index.php/$1 [L]
-RewriteRule ^(.*)$ index.php [E=PATH_INFO:$1]
 RewriteRule (var|usr)(.+ph*)$ index.php [E=PATH_INFO:$1]
 RewriteRule (config.inc.php|.htaccess)$ index.php [L,E=PATH_INFO:$1]
 RewriteCond %{HTTP_HOST} ^www.***.net
