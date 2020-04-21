@@ -1,19 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://you.ci</id>
+    <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-20T05:07:15.165Z</updated>
+    <updated>2020-04-21T11:56:17.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://you.ci"/>
-    <link rel="self" href="http://you.ci/atom.xml"/>
+    <link rel="alternate" href="https://you.ci"/>
+    <link rel="self" href="https://you.ci/atom.xml"/>
     <subtitle>&lt;img src=&quot;https://v2.jinrishici.com/one.svg?font-size=22&amp;spacing=2&amp;color=white&quot;&gt;</subtitle>
-    <logo>http://you.ci/images/avatar.png</logo>
-    <icon>http://you.ci/favicon.ico</icon>
+    <logo>https://you.ci/images/avatar.png</logo>
+    <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
     <entry>
+        <title type="html"><![CDATA[打脸，因为很酷的“开往”启用https]]></title>
+        <id>https://you.ci/post/TOcTEIpNY/</id>
+        <link href="https://you.ci/post/TOcTEIpNY/">
+        </link>
+        <updated>2020-04-21T11:47:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>之前写过一篇博文：<a href="https://you.ci/post/uJmhMam9c/">并不打算启用https</a>，但是今天看到某一个博客，看到一个图标，或者开往的链接，会随机进入到一个新的博客。<br>
+很喜欢这样，可以发现另外一扇大门。<br>
+于是，我打算将博客改回https了，为了满足开往的条件。<br>
+作者的Github：<a href="https://github.com/volfclub/travellings">https://github.com/volfclub/travellings</a><br>
+<img src="https://you.ci/post-images/1587470081237.gif" alt="" loading="lazy"><br>
+转跳的域名是：<a href="https://travellings.now.sh/">https://travellings.now.sh/</a><br>
+希望作者可以坚持下去哈，这个是一个有意思的事情。<br>
+😄😄😄</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>之前写过一篇博文：<a href="https://you.ci/post/uJmhMam9c/">并不打算启用https</a>，但是今天看到某一个博客，看到一个图标，或者开往的链接，会随机进入到一个新的博客。<br>
+很喜欢这样，可以发现另外一扇大门。<br>
+于是，我打算将博客改回https了，为了满足开往的条件。<br>
+作者的Github：<a href="https://github.com/volfclub/travellings">https://github.com/volfclub/travellings</a><br>
+<img src="https://you.ci/post-images/1587470081237.gif" alt="" loading="lazy"><br>
+转跳的域名是：<a href="https://travellings.now.sh/">https://travellings.now.sh/</a><br>
+希望作者可以坚持下去哈，这个是一个有意思的事情。<br>
+😄😄😄</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[分享：在线批量修改文件后缀bat生成]]></title>
-        <id>http://you.ci/post/cywa3CylX/</id>
-        <link href="http://you.ci/post/cywa3CylX/">
+        <id>https://you.ci/post/cywa3CylX/</id>
+        <link href="https://you.ci/post/cywa3CylX/">
         </link>
         <updated>2020-04-20T05:03:24.000Z</updated>
         <summary type="html"><![CDATA[<p>有时候需要批量或者有规律修改电脑上某一群文件。<br>
@@ -34,8 +60,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[服务器磁盘（inode信息）占用100%解决办法]]></title>
-        <id>http://you.ci/post/Hq7OZUave/</id>
-        <link href="http://you.ci/post/Hq7OZUave/">
+        <id>https://you.ci/post/Hq7OZUave/</id>
+        <link href="https://you.ci/post/Hq7OZUave/">
         </link>
         <updated>2020-04-16T09:57:03.000Z</updated>
         <summary type="html"><![CDATA[<p>某服务器停机3个多月了，现在才发现。<br>
@@ -64,13 +90,13 @@ mysql始终始终无法启动。<br>
 找到后删除。<br>
 服务器出现莫名的问题，一般是磁盘爆满，这个要记好。</p>
 <!-- more -->
-<figure data-type="image" tabindex="1"><img src="http://you.ci/post-images/1587031370662.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1587031370662.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[分享：Typecho博客系统防黑客教程（Typecho安全加固指南）]]></title>
-        <id>http://you.ci/post/4vHjJodh8/</id>
-        <link href="http://you.ci/post/4vHjJodh8/">
+        <id>https://you.ci/post/4vHjJodh8/</id>
+        <link href="https://you.ci/post/4vHjJodh8/">
         </link>
         <updated>2020-04-16T06:01:34.000Z</updated>
         <summary type="html"><![CDATA[<p>网站如果被黑，心情是糟糕的，打算商业博客使用的是Typecho系统，php+mysql，php一般安全度不高，特别是使用多的博客系统。<br>
@@ -134,8 +160,8 @@ rewrite /(config.inc.php|.htaccess)$ /index.php last;</code></pre>
     </entry>
     <entry>
         <title type="html"><![CDATA[信心不足]]></title>
-        <id>http://you.ci/post/nwF1rOzsw/</id>
-        <link href="http://you.ci/post/nwF1rOzsw/">
+        <id>https://you.ci/post/nwF1rOzsw/</id>
+        <link href="https://you.ci/post/nwF1rOzsw/">
         </link>
         <updated>2020-04-15T08:20:45.000Z</updated>
         <summary type="html"><![CDATA[<p>打算新建一个商业博客。<br>
@@ -164,8 +190,8 @@ rewrite /(config.inc.php|.htaccess)$ /index.php last;</code></pre>
     </entry>
     <entry>
         <title type="html"><![CDATA[疫情下的思考：域名之下的站点还有未来吗？]]></title>
-        <id>http://you.ci/post/UlEhc8V3R/</id>
-        <link href="http://you.ci/post/UlEhc8V3R/">
+        <id>https://you.ci/post/UlEhc8V3R/</id>
+        <link href="https://you.ci/post/UlEhc8V3R/">
         </link>
         <updated>2020-04-13T11:25:08.000Z</updated>
         <summary type="html"><![CDATA[<p>忘记了是有多久，也懒得注册域名，也懒得去建站了。<br>
@@ -212,8 +238,8 @@ PC时代一去不返了。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[高尔夫球GIF教程]]></title>
-        <id>http://you.ci/post/WGvLJOBlV/</id>
-        <link href="http://you.ci/post/WGvLJOBlV/">
+        <id>https://you.ci/post/WGvLJOBlV/</id>
+        <link href="https://you.ci/post/WGvLJOBlV/">
         </link>
         <updated>2020-04-12T04:44:40.000Z</updated>
         <summary type="html"><![CDATA[<p>网上收集了一些高尔夫球练习姿势gif图片。这里保存下来，时刻来看，时刻来学习，领悟。<br>
@@ -228,19 +254,19 @@ PC时代一去不返了。<br>
 <!-- more -->
 <p>先来看看女神滴。<br>
 加载很慢，慢慢等。。。<br>
-<img src="http://you.ci/post-images/1586670412194.gif" alt="" loading="lazy"></p>
+<img src="https://you.ci/post-images/1586670412194.gif" alt="" loading="lazy"></p>
 <p>再来一张蓝色滴<br>
-<img src="http://you.ci/post-images/1586670432889.gif" alt="" loading="lazy"></p>
+<img src="https://you.ci/post-images/1586670432889.gif" alt="" loading="lazy"></p>
 <p>后面是网上收集的<br>
-<img src="http://you.ci/post-images/1586670460201.gif" alt="" loading="lazy"></p>
-<figure data-type="image" tabindex="1"><img src="http://you.ci/post-images/1586670475629.gif" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="http://you.ci/post-images/1586670482517.gif" alt="" loading="lazy"></figure>
+<img src="https://you.ci/post-images/1586670460201.gif" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1586670475629.gif" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://you.ci/post-images/1586670482517.gif" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[有次博客启用阿里云全站加速]]></title>
-        <id>http://you.ci/post/mPuS5_vkm/</id>
-        <link href="http://you.ci/post/mPuS5_vkm/">
+        <id>https://you.ci/post/mPuS5_vkm/</id>
+        <link href="https://you.ci/post/mPuS5_vkm/">
         </link>
         <updated>2020-04-12T01:38:58.000Z</updated>
         <summary type="html"><![CDATA[<p>博客静态页面虽然免费托管在Github，但是听说，Github拒绝搜索引擎蜘蛛。<br>
@@ -261,8 +287,8 @@ PC时代一去不返了。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[买大疆无人机，还是买域名？]]></title>
-        <id>http://you.ci/post/EIU80YCsl/</id>
-        <link href="http://you.ci/post/EIU80YCsl/">
+        <id>https://you.ci/post/EIU80YCsl/</id>
+        <link href="https://you.ci/post/EIU80YCsl/">
         </link>
         <updated>2020-04-11T03:04:03.000Z</updated>
         <summary type="html"><![CDATA[<p>这是一个值得深思的问题！<br>
@@ -284,7 +310,7 @@ PC时代一去不返了。<br>
 最终喜欢域名，比无人机多一些。</p>
 <!-- more -->
 <p><strong>无人机展示照片</strong><br>
-<img src="http://you.ci/post-images/1586574521263.png" alt="" loading="lazy"></p>
+<img src="https://you.ci/post-images/1586574521263.png" alt="" loading="lazy"></p>
 <p><strong>域名展示</strong><br>
 http://you.ci/</p>
 <hr>
@@ -292,8 +318,8 @@ http://you.ci/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECS使用ossfs工具挂载阿里云oss]]></title>
-        <id>http://you.ci/post/jfVWs6zzu/</id>
-        <link href="http://you.ci/post/jfVWs6zzu/">
+        <id>https://you.ci/post/jfVWs6zzu/</id>
+        <link href="https://you.ci/post/jfVWs6zzu/">
         </link>
         <updated>2020-04-10T12:34:09.000Z</updated>
         <summary type="html"><![CDATA[<p>研究了很久,始终是无法明白,这个就吃了没有文化的亏,因为不怎么懂linux命令代码,自己部署下来很吃力.<br>
@@ -353,36 +379,6 @@ ossfs [Bucket空间名] [挂载路径] -ourl=[https://OSS域名]
 <p>感谢:<a href="https://www.jianshu.com/p/30e754bd50f9">https://www.jianshu.com/p/30e754bd50f9</a><br>
 还有:<a href="https://www.cnblogs.com/hnhycnlc888/p/12170476.html">https://www.cnblogs.com/hnhycnlc888/p/12170476.html</a><br>
 ❤️</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有次博客折腾记录:代码托管到Github]]></title>
-        <id>http://you.ci/post/C_UYNn0rS/</id>
-        <link href="http://you.ci/post/C_UYNn0rS/">
-        </link>
-        <updated>2020-04-10T10:27:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>比较喜欢静态网站的原因是因为安全.<br>
-黑客无法攻破,没有漏洞,访问速度快速.</p>
-<p>最初的想法,是将博客内容托管到阿里云的OSS,也实现了这个功能,但是有个比较大的问题是,每次同步稍微麻烦一些.<br>
-后来就干脆点,暂时放到免费的Github.<br>
-然后再使用阿里云的全站加速,估计访问速度也是很快的.</p>
-<p>网站不会被挂马,不会程序崩溃,本地也有一份html备份.博客让人放心.</p>
-<p><strong>博客的系统采用的是Gridea</strong>,看起来也很酷,使用的是markdown语法,也很酷.😏</p>
-<p>纯静态也有一些bug,比如交互评论,功能方面.页面也繁多.</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>比较喜欢静态网站的原因是因为安全.<br>
-黑客无法攻破,没有漏洞,访问速度快速.</p>
-<p>最初的想法,是将博客内容托管到阿里云的OSS,也实现了这个功能,但是有个比较大的问题是,每次同步稍微麻烦一些.<br>
-后来就干脆点,暂时放到免费的Github.<br>
-然后再使用阿里云的全站加速,估计访问速度也是很快的.</p>
-<p>网站不会被挂马,不会程序崩溃,本地也有一份html备份.博客让人放心.</p>
-<p><strong>博客的系统采用的是Gridea</strong>,看起来也很酷,使用的是markdown语法,也很酷.😏</p>
-<p>纯静态也有一些bug,比如交互评论,功能方面.页面也繁多.</p>
-<!-- more -->
-<p>有次博客的背景图每天是更新的,调用的是bing的最新图片,并在首页调用了今日诗词的诗句.</p>
-<p><s>我的博客,有次博客.</s></p>
-<p>🥂</p>
-<figure data-type="image" tabindex="1"><img src="http://you.ci/post-images/1586515293333.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
