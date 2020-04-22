@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-22T11:08:10.367Z</updated>
+    <updated>2020-04-22T11:25:39.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[恨铁不成钢：bilibili本应该是百度的]]></title>
+        <id>https://you.ci/post/I3TxqPepM/</id>
+        <link href="https://you.ci/post/I3TxqPepM/">
+        </link>
+        <updated>2020-04-22T11:10:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>中国的互联网圈，还可以有谁可以对标google。<br>
+没有。<br>
+恨铁不成钢。<br>
+😿<br>
+作为平均用户年龄只有19.8岁的哔哩哔哩，缺成为了我常用的视频网站。<br>
+bilibili咋就成为了中国的YouTube。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>中国的互联网圈，还可以有谁可以对标google。<br>
+没有。<br>
+恨铁不成钢。<br>
+😿<br>
+作为平均用户年龄只有19.8岁的哔哩哔哩，缺成为了我常用的视频网站。<br>
+bilibili咋就成为了中国的YouTube。</p>
+<!-- more -->
+<p>不过确实，它已经开始脱离二次元，联盟各类UP主，在提供全方位的视频内容。<br>
+比如我之前找学习资料，总是要搜索一下百度。<br>
+现在可能先搜索一下bilibili，直观，通俗易懂。<br>
+互联网江湖，从原来的文字-图文-视频，5g时代网速不成问题，大家更喜欢视频这样的内容。<br>
+抖音太快，太鸡血，太中国特色。<br>
+视频方面，只有bilibili前景广阔。<br>
+INS-小红书（本来想做电商社区的，结果成为了图文社区）<br>
+YouTube-哔哩哔哩（本来是二次元的，结果做成了通吃的YTB）<br>
+亚马逊-京东<br>
+.......<br>
+5-10年，不知道抖音，拼多多，快手，微博类的公司是否还健在。<br>
+但是觉得Google一个还健在。</p>
+<p>想着当年，淘宝屏蔽百度蜘蛛抓取，是多么英明的决策。那个时候，有谁可以拒绝百度吖🎅</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[农村建房，你有什么想法？]]></title>
         <id>https://you.ci/post/3GWrdnS4H/</id>
@@ -319,36 +354,5 @@ PC时代一去不返了。<br>
 😎</p>
 <!-- more -->
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[买大疆无人机，还是买域名？]]></title>
-        <id>https://you.ci/post/EIU80YCsl/</id>
-        <link href="https://you.ci/post/EIU80YCsl/">
-        </link>
-        <updated>2020-04-11T03:04:03.000Z</updated>
-        <summary type="html"><![CDATA[<p>这是一个值得深思的问题！<br>
-一直以来，想要无人机很久了，因为可以拍出很有震撼力的视频，好看。但是想想价格，或者因为一次操作失误，飞行撞机，无人机就没了。<br>
-至少有3次以上想入手大疆无人机了。<br>
-但是都没有买。<br>
-但是关于域名，看到好的域名，总会毫不犹豫买下来，哪怕不用，就放在那里续费。<br>
-域名可比无人机贵多了。<br>
-这或许是瘾。<br>
-最终喜欢域名，比无人机多一些。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>这是一个值得深思的问题！<br>
-一直以来，想要无人机很久了，因为可以拍出很有震撼力的视频，好看。但是想想价格，或者因为一次操作失误，飞行撞机，无人机就没了。<br>
-至少有3次以上想入手大疆无人机了。<br>
-但是都没有买。<br>
-但是关于域名，看到好的域名，总会毫不犹豫买下来，哪怕不用，就放在那里续费。<br>
-域名可比无人机贵多了。<br>
-这或许是瘾。<br>
-最终喜欢域名，比无人机多一些。</p>
-<!-- more -->
-<p><strong>无人机展示照片</strong><br>
-<img src="https://you.ci/post-images/1586574521263.png" alt="" loading="lazy"></p>
-<p><strong>域名展示</strong><br>
-http://you.ci/</p>
-<hr>
-无人机还是要买的，只是时间长短而已。]]></content>
     </entry>
 </feed>
