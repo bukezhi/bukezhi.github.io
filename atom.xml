@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-21T15:35:02.419Z</updated>
+    <updated>2020-04-22T11:08:10.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[农村建房，你有什么想法？]]></title>
+        <id>https://you.ci/post/3GWrdnS4H/</id>
+        <link href="https://you.ci/post/3GWrdnS4H/">
+        </link>
+        <updated>2020-04-22T11:02:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天在落伍者论坛也看到有人在讨论这个话题，多少人打算在老家或农村建房。<br>
+农村有着很大的优势，地大。<br>
+比如我，建设了一个高尔夫球场，在城里练习场，也需要100元每小时。<br>
+而我在农村一块空地，建设一个练习场，总投资也不到几千块钱。<br>
+🤡<br>
+BUT<br>
+农村人越来越少，有时候整个村庄，寥寥无几的几个老人。<br>
+基本也没有商业氛围，买个菜，去超市开车十多公里，现代化的读书馆，咖啡厅更是一片空白。<br>
+😐<br>
+在农村可以感觉到安静。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天在落伍者论坛也看到有人在讨论这个话题，多少人打算在老家或农村建房。<br>
+农村有着很大的优势，地大。<br>
+比如我，建设了一个高尔夫球场，在城里练习场，也需要100元每小时。<br>
+而我在农村一块空地，建设一个练习场，总投资也不到几千块钱。<br>
+🤡<br>
+BUT<br>
+农村人越来越少，有时候整个村庄，寥寥无几的几个老人。<br>
+基本也没有商业氛围，买个菜，去超市开车十多公里，现代化的读书馆，咖啡厅更是一片空白。<br>
+😐<br>
+在农村可以感觉到安静。</p>
+<!-- more -->
+<p><img src="https://you.ci/post-images/1587553598299.jpg" alt="落伍者截图" loading="lazy"><br>
+特别是此次YQ，老房子也开始在装修了。但是可以预料，基本上是住的很少的。</p>
+<p>我想，虽然不住，但是还是要装修好一点，偶尔回去，练习打球。<br>
+休闲娱乐一下。<br>
+当做安静的另一处家园吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[打脸，因为很酷的“开往”启用https]]></title>
         <id>https://you.ci/post/TOcTEIpNY/</id>
@@ -315,70 +350,5 @@ PC时代一去不返了。<br>
 http://you.ci/</p>
 <hr>
 无人机还是要买的，只是时间长短而已。]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECS使用ossfs工具挂载阿里云oss]]></title>
-        <id>https://you.ci/post/jfVWs6zzu/</id>
-        <link href="https://you.ci/post/jfVWs6zzu/">
-        </link>
-        <updated>2020-04-10T12:34:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>研究了很久,始终是无法明白,这个就吃了没有文化的亏,因为不怎么懂linux命令代码,自己部署下来很吃力.<br>
-后来在简书上看到教程,于是学着弄,还是不行,于是网上找了一位老师,支付一些费用,协助挂载完成.几分钟后,算是成功了.<br>
-🤼‍♂<br>
-价值200元的安装教程,笑纳.<br>
-🚴<br>
-准备工具:ECS一台,不得不说,现在阿里云直接网页版提供远程连接,越来越人性化,越来越方便.<br>
-系统安装:linux系统.Centos7.*系统吧,目前宝塔面板仅仅支持7.X系统.<br>
-🎷<br>
-暂时将服务器环境安装完毕:AMP</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>研究了很久,始终是无法明白,这个就吃了没有文化的亏,因为不怎么懂linux命令代码,自己部署下来很吃力.<br>
-后来在简书上看到教程,于是学着弄,还是不行,于是网上找了一位老师,支付一些费用,协助挂载完成.几分钟后,算是成功了.<br>
-🤼‍♂<br>
-价值200元的安装教程,笑纳.<br>
-🚴<br>
-准备工具:ECS一台,不得不说,现在阿里云直接网页版提供远程连接,越来越人性化,越来越方便.<br>
-系统安装:linux系统.Centos7.*系统吧,目前宝塔面板仅仅支持7.X系统.<br>
-🎷<br>
-暂时将服务器环境安装完毕:AMP</p>
-<!-- more -->
-<hr>
-<p>第一步:安装依赖包</p>
-<pre><code class="language-javascript">yum install -y automake gcc-c++ git libcurl-devel libxml2-devel fuse-devel make openssl-devel
-</code></pre>
-<p>第二步:依次运行如下代码下载源码包编译</p>
-<pre><code class="language-javascript">git clone https://github.com/aliyun/ossfs.git
-cd ossfs
-./autogen.sh
-./configure
-make &amp;&amp; make install
-</code></pre>
-<p>第三步:依次运行配置阿里云OSS秘钥,配置权限</p>
-<pre><code class="language-javascript">echo Bucket名称:AccessKey ID:Access Key Secret &gt; /etc/passwd-ossfs
-chmod 640 /etc/passwd-ossfs
-</code></pre>
-<p>例:echo wangzhan:LTAI4Fi5udZoCrfGMUq:itGad0BuLS8glE3KM &gt; /etc/passwd-ossfs</p>
-<p>第四步:建立文件夹,并将OSS的<strong>Bucket 名称</strong>挂载到**/home/ossfs**目录下</p>
-<pre><code class="language-javascript">cd
-mkdir /home/ossfs
-ossfs [Bucket空间名] [挂载路径] -ourl=[https://OSS域名]
-</code></pre>
-<p>例:ossfs sdfads /home/ossfs -ourl=http://oss-cn-wuhan.aliyuncs.com</p>
-<p>到这里就挂载成功了.<br>
-因为是外网访问,速度很慢,在阿里云同一地域的ECS与OSS下,可以使用内网域名挂载,免流量.</p>
-<p>开机启动自动挂载:在/etc/rc.local中添加：</p>
-<pre><code class="language-javascript">ossfs Bucket空间名 /home/ossfs -ourl=https://OSS域名 Bucket空间名 -o allow_other
-</code></pre>
-<p>其他看不懂的部分:<br>
-卸载命令：umount /home/Bucket空间名/ 或者 fusermount -u /home/Bucket空间名/</p>
-<p><strong>非阿里云ECS挂载注意事项</strong><br>
-为避免后台程序扫描oss文件导致产生费用，如果是updatedb可以通过修改/etc/updatedb.conf让它跳过。<br>
-具体做法是：<br>
-在PRUNEFS =后面加上fuse.ossfs<br>
-在PRUNEPATHS =后面加上挂载的目录</p>
-<p>感谢:<a href="https://www.jianshu.com/p/30e754bd50f9">https://www.jianshu.com/p/30e754bd50f9</a><br>
-还有:<a href="https://www.cnblogs.com/hnhycnlc888/p/12170476.html">https://www.cnblogs.com/hnhycnlc888/p/12170476.html</a><br>
-❤️</p>
-]]></content>
     </entry>
 </feed>
