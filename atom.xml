@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-23T13:42:21.850Z</updated>
+    <updated>2020-04-25T03:14:13.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[证书问题与@域名本身CNAME问题]]></title>
+        <id>https://you.ci/post/0RcdA3WzE/</id>
+        <link href="https://you.ci/post/0RcdA3WzE/">
+        </link>
+        <updated>2020-04-25T03:03:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>不知道是不是免费证书的缘故，通过小米手机访问https，会提示证书有问题。<br>
+如果访问某个https后，提示这样的信息，体验肯定是不好的。<br>
+然后通过阿里云重新申请了一个免费证书，小米浏览器就没有报错了。<br>
+证书问题一般是免费1年，后面续期怎么办？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>不知道是不是免费证书的缘故，通过小米手机访问https，会提示证书有问题。<br>
+如果访问某个https后，提示这样的信息，体验肯定是不好的。<br>
+然后通过阿里云重新申请了一个免费证书，小米浏览器就没有报错了。<br>
+证书问题一般是免费1年，后面续期怎么办？</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1587784124326.jpg" alt="" loading="lazy"></figure>
+<p>还有，namesilo等一些域名注册商不支持域名本身@的CNAME解析，只能有A记录解析，如果用空域名去CDN，这个逻辑如何实现。<br>
+国内的一些注册商都是支持的，奇怪了国外的这些dns们。</p>
+<p>比如我们的域名：https://you.ci/ 才好看。<br>
+如果是：https://www.you.ci/ 😤</p>
+<p>域名为什么要加一个www呢，发现没有，加www的都是老站长，老思想。<br>
+现在的新站长，小年轻，都是统一的https域名本身。<br>
+特别是不要后缀的。<br>
+o(╥﹏╥)o</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恨铁不成钢：bilibili本应该是百度的]]></title>
         <id>https://you.ci/post/I3TxqPepM/</id>
@@ -331,28 +358,6 @@ PC时代一去不返了。<br>
 <img src="https://you.ci/post-images/1586670460201.gif" alt="" loading="lazy"></p>
 <figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1586670475629.gif" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="2"><img src="https://you.ci/post-images/1586670482517.gif" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有次博客启用阿里云全站加速]]></title>
-        <id>https://you.ci/post/mPuS5_vkm/</id>
-        <link href="https://you.ci/post/mPuS5_vkm/">
-        </link>
-        <updated>2020-04-12T01:38:58.000Z</updated>
-        <summary type="html"><![CDATA[<p>博客静态页面虽然免费托管在Github，但是听说，Github拒绝搜索引擎蜘蛛。<br>
-其次，图片打开速度很慢。<br>
-于是启用了阿里云的全站加速（仅仅加速海外部分不用备案）。<br>
-这样一来，访问速度很快了。</p>
-<p>目前打开有次博客，速度应该是搜搜滴。<br>
-😎</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>博客静态页面虽然免费托管在Github，但是听说，Github拒绝搜索引擎蜘蛛。<br>
-其次，图片打开速度很慢。<br>
-于是启用了阿里云的全站加速（仅仅加速海外部分不用备案）。<br>
-这样一来，访问速度很快了。</p>
-<p>目前打开有次博客，速度应该是搜搜滴。<br>
-😎</p>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>
