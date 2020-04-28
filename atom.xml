@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-04-28T03:11:49.986Z</updated>
+    <updated>2020-04-28T14:10:21.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[离开与归来 学习Python]]></title>
+        <id>https://you.ci/post/xAAahtB33/</id>
+        <link href="https://you.ci/post/xAAahtB33/">
+        </link>
+        <updated>2020-04-28T14:03:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>Python，Python，Python。<br>
+已经记住了。</p>
+<p>先放学习资料：<br>
+文字版：<a href="https://www.liaoxuefeng.com/wiki/1016959663602400">https://www.liaoxuefeng.com/wiki/1016959663602400</a><br>
+视频版：<a href="https://www.bilibili.com/video/BV12E411A7ZQ?p=1">https://www.bilibili.com/video/BV12E411A7ZQ?p=1</a></p>
+<p>Python网页与软件下载，龟速，严重影响学习进度。🙁</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Python，Python，Python。<br>
+已经记住了。</p>
+<p>先放学习资料：<br>
+文字版：<a href="https://www.liaoxuefeng.com/wiki/1016959663602400">https://www.liaoxuefeng.com/wiki/1016959663602400</a><br>
+视频版：<a href="https://www.bilibili.com/video/BV12E411A7ZQ?p=1">https://www.bilibili.com/video/BV12E411A7ZQ?p=1</a></p>
+<p>Python网页与软件下载，龟速，严重影响学习进度。🙁</p>
+<!-- more -->
+<p>今天打开某一网站，是关站提示。<br>
+<img src="https://you.ci/post-images/1588082903108.png" alt="" loading="lazy"></p>
+<p>同时也发现，一些网站，访问量还不错的网站，站长可能是一个初中生或高中生。<br>
+比如墨灵音乐。</p>
+<p>盈利模式很多都是打赏。<br>
+😳</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能不能不在乎钱，只在乎自己的爱好么]]></title>
         <id>https://you.ci/post/QYP3xD26I/</id>
@@ -309,71 +337,6 @@ mysql始终始终无法启动。<br>
 服务器出现莫名的问题，一般是磁盘爆满，这个要记好。</p>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1587031370662.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享：Typecho博客系统防黑客教程（Typecho安全加固指南）]]></title>
-        <id>https://you.ci/post/4vHjJodh8/</id>
-        <link href="https://you.ci/post/4vHjJodh8/">
-        </link>
-        <updated>2020-04-16T06:01:34.000Z</updated>
-        <summary type="html"><![CDATA[<p>网站如果被黑，心情是糟糕的，打算商业博客使用的是Typecho系统，php+mysql，php一般安全度不高，特别是使用多的博客系统。<br>
-简单做一下安全。<a href="https://www.wubo.net.cn/security/typecho_security.html">设置教程</a><br>
-不得不说，Typecho有些模板真是好看。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>网站如果被黑，心情是糟糕的，打算商业博客使用的是Typecho系统，php+mysql，php一般安全度不高，特别是使用多的博客系统。<br>
-简单做一下安全。<a href="https://www.wubo.net.cn/security/typecho_security.html">设置教程</a><br>
-不得不说，Typecho有些模板真是好看。</p>
-<!-- more -->
-<p>1、删除安装文件<br>
-成功安装后删除install.php文件、install/文件夹。</p>
-<p>2、修改后台地址<br>
-把admin修改为黑客猜不到的名字，例如bilibili，防止黑客穷举密码。</p>
-<p>修改admin文件夹名称<br>
-修改admin文件夹名称为你喜欢的名称，例如bilibili</p>
-<p>修改配置文件以适配修改后的admin路径<br>
-修改config.inc.php<br>
-修改为以下代码，我就当修改为bilibili了。</p>
-<p>/** 后台路径(相对路径) */<br>
-define('<strong>TYPECHO_ADMIN_DIR</strong>', '/bilibili/');<br>
-好了。现在你可以访问你的域名/bilibili/了。这就是你的新的后台地址，原来的你的域名/admin/已经不能访问了。</p>
-<p>3、屏蔽usr、var目录下php文件的访问<br>
-屏蔽usr、var目录下php文件的访问可以阻止黑客访问到他上传的php木马。<br>
-我们利用Rewrite伪静态机制来做。我这里以Apache服务器为例，大部分虚拟主机都是Apache。LiteSpeed Web Server也使用的是Apache的规则。<br>
-我们同时屏蔽config.inc.php和.htaccess的访问。<br>
-屏蔽原理就是把要屏蔽的请求重定向到首页文件，首页文件会当成文章名来解析，没有同名文章就会返回404未找到。所以就算黑客上传了木马也只会得到404未找到的响应。</p>
-<p>文件名：.htaccess</p>
-<pre><code class="language-javascript">&lt;IfModule mod_rewrite.c&gt;
-    RewriteEngine On
-    RewriteBase /
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^(.*)$ index.php [E=PATH_INFO:$1]
-    RewriteRule (var|usr)(.+ph*)$ index.php [E=PATH_INFO:$1]
-    RewriteRule (config.inc.php|.htaccess)$ index.php [L,E=PATH_INFO:$1]
-&lt;/IfModule&gt;
-</code></pre>
-<p>我是如下设置的：1、屏蔽网址中带有index.php。2、做了www转跳到非www的根目录。3、安全。</p>
-<pre><code class="language-javascript">&lt;IfModule mod_rewrite.c&gt;
-RewriteEngine On
-RewriteBase /
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /index.php/$1 [L]
-RewriteRule (var|usr)(.+ph*)$ index.php [E=PATH_INFO:$1]
-RewriteRule (config.inc.php|.htaccess)$ index.php [L,E=PATH_INFO:$1]
-RewriteCond %{HTTP_HOST} ^www.***.net
-RewriteRule (.*) https://***.net/$1 [R=301,L]
-&lt;/IfModule&gt;
-</code></pre>
-<p>新建.htaccess文件添加以上内容，上传到你typecho博客的根目录就可以了。</p>
-<p>2019.07.14更新：新增Nginx规则<br>
-此规则原理同上，经测试Nginx和OpenResty下可用。</p>
-<pre><code>if (!-e $request_filename) {
-    rewrite ^(.*)$ /index.php$1;
-}
-rewrite /(var|usr)(.+ph*)$ /index.php;
-rewrite /(config.inc.php|.htaccess)$ /index.php last;</code></pre>
 ]]></content>
     </entry>
 </feed>
