@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-01T06:09:29.585Z</updated>
+    <updated>2020-05-01T14:55:56.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[有次博客，独立访客近1000^_^啦！]]></title>
+        <id>https://you.ci/post/Q4rRD6ldN/</id>
+        <link href="https://you.ci/post/Q4rRD6ldN/">
+        </link>
+        <updated>2020-05-01T14:36:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天上线了讷鱼，加上很多地方外链，博客单日访问量接近1000.<br>
+You.ci启用的是国别域名，近期观察搜索引擎的收录问题。<br>
+百度蜘蛛基本没来过，甚至放上百度统计都无法统计出数据，在想bug在哪里。</p>
+<p>通过蜘蛛日志分析，谷歌来的很勤快。🌎</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天上线了讷鱼，加上很多地方外链，博客单日访问量接近1000.<br>
+You.ci启用的是国别域名，近期观察搜索引擎的收录问题。<br>
+百度蜘蛛基本没来过，甚至放上百度统计都无法统计出数据，在想bug在哪里。</p>
+<p>通过蜘蛛日志分析，谷歌来的很勤快。🌎</p>
+<!-- more -->
+<blockquote>
+<p>百度：严进宽出<br>
+谷歌：宽进严出</p>
+</blockquote>
+<p>有没有很像国内外的大学制度。</p>
+<p>因为是博客，也无所谓搜索引擎的收录。反而是否可以得到博友们的认可。<br>
+<img src="https://you.ci/post-images/1588344607122.jpg" alt="" loading="lazy"><br>
+之前每天也就100-200之间，到了半夜，一个有700-800左右的独立访客。</p>
+<p>比较珍惜有次博客，也会珍惜认识的每一位博友。<br>
+👬</p>
+<p>以利相交，利尽则散；<br>
+以势相交，势败则倾；<br>
+以权相交，权失则弃；<br>
+以情相交，情断则伤；</p>
+<p>唯以心相交，方得始终。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讷鱼 - 游向某一片海洋]]></title>
         <id>https://you.ci/post/neyu/</id>
@@ -308,28 +341,6 @@ BUT<br>
 转跳的域名是：<a href="https://travellings.now.sh/">https://travellings.now.sh/</a><br>
 希望作者可以坚持下去哈，这个是一个有意思的事情。<br>
 😄😄😄</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享：在线批量修改文件后缀bat生成]]></title>
-        <id>https://you.ci/post/cywa3CylX/</id>
-        <link href="https://you.ci/post/cywa3CylX/">
-        </link>
-        <updated>2020-04-20T05:03:24.000Z</updated>
-        <summary type="html"><![CDATA[<p>有时候需要批量或者有规律修改电脑上某一群文件。<br>
-可以在本地bat运行一下，就可以批量修改了。<br>
-通过这个网址，就可以自动生成bat命令，然后放在目录之下，批量完成。<br>
-网址地址：<a href="http://www.kuaigaizhushou.com/">http://www.kuaigaizhushou.com/</a><br>
-挺好用的。<br>
-😀</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>有时候需要批量或者有规律修改电脑上某一群文件。<br>
-可以在本地bat运行一下，就可以批量修改了。<br>
-通过这个网址，就可以自动生成bat命令，然后放在目录之下，批量完成。<br>
-网址地址：<a href="http://www.kuaigaizhushou.com/">http://www.kuaigaizhushou.com/</a><br>
-挺好用的。<br>
-😀</p>
 <!-- more -->
 ]]></content>
     </entry>
