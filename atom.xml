@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-01T03:27:16.881Z</updated>
+    <updated>2020-05-01T03:35:22.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -30,9 +30,11 @@
 <p>2、与开往不同，讷鱼主动采集全网博客，<strong>重视手机体验</strong>，使用Python爬虫，根据变量因子，links等，分析源码，找到博客网址添加到讷鱼库或失效博客时刻上报。</p>
 <p>3、您也可以将博客加入到讷鱼库或报告失效博客。底部留言即可。</p>
 <!-- more -->
-<p><strong>重点：初衷是放到手机桌面，偶尔游一下，发现以下好玩的博客（所以美化了图标等信息）。一定要放手机桌面哈。</strong>（如下图）<br>
-网址如何放在手机桌面奋韩博客有教程：<a href="https://www.fenhan.net/134.html">https://www.fenhan.net/134.html</a></p>
-<CENTER>![](https://you.ci/post-images/1588301430950.jpg)</CENTER>
+<p><strong>重点：初衷是放到手机桌面，偶尔游一下，发现一下好玩的博客（所以美化了图标等信息）。一定要放手机桌面哈。</strong>（如下图）</p>
+<p>网址如何放在手机桌面奋韩博客有教程：<a href="https://www.fenhan.net/134.html">https://www.fenhan.net/134.html</a></p>
+<div align=center>
+<img src="https://you.ci/post-images/1588301430950.jpg"/>
+</div>
 <p>🌞</p>
 ]]></content>
     </entry>
