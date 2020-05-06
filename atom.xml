@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-06T03:13:59.655Z</updated>
+    <updated>2020-05-06T12:57:53.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,65 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[《创造者日报》首页推荐“讷鱼”PWA请注意！]]></title>
+        <id>https://you.ci/post/QXMQxTsOI/</id>
+        <link href="https://you.ci/post/QXMQxTsOI/">
+        </link>
+        <updated>2020-05-06T12:23:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天打开创造者日报，发现<a href="https://neyu.com/">讷鱼</a>推荐在了首页。<br>
+《创造者日报》链接：<a href="https://creatorsdaily.com/9a4e1d4c-f148-4da9-887a-996f444bb223">讷鱼-游向某一片海洋</a><br>
+我在下面评论了一句：</p>
+<blockquote>
+<p>简单的应用+PWA+5G，会不会是未来手机互联网的趋势？<br>
+对于普通用户，95%的使用手机而鲜用PC。<br>
+PWA是微信小程序的鼻祖。微信小程序过于封闭，生态环境个人并不是很看好。但是PWA，虽然目前应用并不广泛，但是随着5G时代的到来，觉得是有望成为一种趋势的。<br>
+目前的PWA说的是一种手机缓存技术，其实到嗯呐5G时代，也根本不需要缓存技术了。</p>
+</blockquote>
+<p><strong>我宁愿要一个PWA应用，但是不需要下载一个app，或者apk，或者小程序。</strong></p>
+<p>有了PWA，一方面有了手机端的直接入口，不需要借助微信平台，直接在手机界面显示图标。<br>
+有了PWA，可以调用微信zf，支付宝zf，银联，银行等各种zf平台。<br>
+可以是一个商场，用户直接购买产品，因为本身不占用空间，分组到购物栏目即可；<br>
+可以提交信息，达成交易意向；<br>
+可以是信息分发，简单不侵犯隐私；<br>
+想想，很多功能，都可以通过html，php，Python等表现出来。开放，简单实用。。。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天打开创造者日报，发现<a href="https://neyu.com/">讷鱼</a>推荐在了首页。<br>
+《创造者日报》链接：<a href="https://creatorsdaily.com/9a4e1d4c-f148-4da9-887a-996f444bb223">讷鱼-游向某一片海洋</a><br>
+我在下面评论了一句：</p>
+<blockquote>
+<p>简单的应用+PWA+5G，会不会是未来手机互联网的趋势？<br>
+对于普通用户，95%的使用手机而鲜用PC。<br>
+PWA是微信小程序的鼻祖。微信小程序过于封闭，生态环境个人并不是很看好。但是PWA，虽然目前应用并不广泛，但是随着5G时代的到来，觉得是有望成为一种趋势的。<br>
+目前的PWA说的是一种手机缓存技术，其实到嗯呐5G时代，也根本不需要缓存技术了。</p>
+</blockquote>
+<p><strong>我宁愿要一个PWA应用，但是不需要下载一个app，或者apk，或者小程序。</strong></p>
+<p>有了PWA，一方面有了手机端的直接入口，不需要借助微信平台，直接在手机界面显示图标。<br>
+有了PWA，可以调用微信zf，支付宝zf，银联，银行等各种zf平台。<br>
+可以是一个商场，用户直接购买产品，因为本身不占用空间，分组到购物栏目即可；<br>
+可以提交信息，达成交易意向；<br>
+可以是信息分发，简单不侵犯隐私；<br>
+想想，很多功能，都可以通过html，php，Python等表现出来。开放，简单实用。。。</p>
+<!-- more -->
+<p>如果你是安卓chorme内核手机，不放访问这个链接体验一下：</p>
+<p>PWA页面：<a href="https://neyu.com/pwa.html">https://neyu.com/pwa.html</a></p>
+<p>之前有过一篇爆文：《搜索引擎百度已死》。<br>
+后来也读到某博客一篇关于微信的文章，找不到了😭</p>
+<p>后浪也爆了，但是总感觉到了危险。当年的暴走漫画，小咖秀，秒怕，其实自由创作这条路是走不通的，后面全部走向营销平台，bilibili只是暂时还没有被腐蚀。</p>
+<p>怎么可以长期成功？<br>
+匠人精神。</p>
+<p>守好自己一个自由的小入口，正能量，长期经营下去，成为100年企业，可以被搜索到，收藏到。<br>
+当年淘宝屏蔽百度，不就是匠人精神么？<br>
+而现在的公众号等，也屏蔽了百度等。<br>
+互联网到底是封闭的，还是共享的？</p>
+<p>有次博客与奋韩博客均已经被GG正常收录了。</p>
+<p>创造者日报PC端首页2020.5.6<br>
+<img src="https://you.ci/post-images/1588769075211.jpg" alt="" loading="lazy"><br>
+创造者日报M端首页2020.5.6<br>
+<img src="https://you.ci/post-images/1588769108843.jpg" alt="" loading="lazy"></p>
+<p>创造者日报也启用了PWA，很多年轻的程序员的博客也启用了这一技术。请注意🤙</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[太难了]]></title>
         <id>https://you.ci/post/2KpU-tipi/</id>
@@ -315,41 +374,6 @@ document.getElementById("spkj").style.height=document.getElementById("spkj").scr
 现在的新站长，小年轻，都是统一的https域名本身。<br>
 特别是不要后缀的。<br>
 o(╥﹏╥)o</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恨铁不成钢：bilibili本应该是百度的]]></title>
-        <id>https://you.ci/post/I3TxqPepM/</id>
-        <link href="https://you.ci/post/I3TxqPepM/">
-        </link>
-        <updated>2020-04-22T11:10:21.000Z</updated>
-        <summary type="html"><![CDATA[<p>中国的互联网圈，还可以有谁可以对标google。<br>
-没有。<br>
-恨铁不成钢。<br>
-😿<br>
-作为平均用户年龄只有19.8岁的哔哩哔哩，却成为了我常用的视频网站。<br>
-bilibili咋就成为了中国的YouTube。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>中国的互联网圈，还可以有谁可以对标google。<br>
-没有。<br>
-恨铁不成钢。<br>
-😿<br>
-作为平均用户年龄只有19.8岁的哔哩哔哩，却成为了我常用的视频网站。<br>
-bilibili咋就成为了中国的YouTube。</p>
-<!-- more -->
-<p>不过确实，它已经开始脱离二次元，联盟各类UP主，在提供全方位的视频内容。<br>
-比如我之前找学习资料，总是要搜索一下百度。<br>
-现在可能先搜索一下bilibili，直观，通俗易懂。<br>
-互联网江湖，从原来的文字-图文-视频，5g时代网速不成问题，大家更喜欢视频这样的内容。<br>
-抖音太快，太鸡血，太中国特色。<br>
-视频方面，只有bilibili前景广阔。<br>
-INS-小红书（本来想做电商社区的，结果成为了图文社区）<br>
-YouTube-哔哩哔哩（本来是二次元的，结果做成了通吃的YTB）<br>
-亚马逊-京东<br>
-.......<br>
-5-10年，不知道抖音，拼多多，快手，微博类的公司是否还健在。<br>
-但是觉得Google一个还健在。</p>
-<p>想着当年，淘宝屏蔽百度蜘蛛抓取，是多么英明的决策。那个时候，有谁可以拒绝百度吖🎅</p>
 ]]></content>
     </entry>
 </feed>
