@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-07T13:02:38.152Z</updated>
+    <updated>2020-05-07T15:02:24.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[几年了！终于中签了新股601778]]></title>
+        <id>https://you.ci/post/NH3NxiK5v/</id>
+        <link href="https://you.ci/post/NH3NxiK5v/">
+        </link>
+        <updated>2020-05-07T14:53:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>依稀记得，有1-2年时间没有中签过新股了。<br>
+开通了科创板，创业板，今天收到短信，终于中签了一股晶科科技。</p>
+<p>几千块的利润应该是有的。</p>
+<p>发行市盈率：16倍，该行业平均市盈率91.84倍。<br>
+会不会可能有4倍的利润，4.37X1000X4=？元😃</p>
+<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1588863559805.jpg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<p>依稀记得，有1-2年时间没有中签过新股了。<br>
+开通了科创板，创业板，今天收到短信，终于中签了一股晶科科技。</p>
+<p>几千块的利润应该是有的。</p>
+<p>发行市盈率：16倍，该行业平均市盈率91.84倍。<br>
+会不会可能有4倍的利润，4.37X1000X4=？元😃</p>
+<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1588863559805.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<p>晶科科技：太阳能光伏发电及其应用系统工程的设计、咨询、集成、制造、工程安装、调试;上述发电系统电子产品、太阳能建筑装饰材料、太阳能照明设备的设计、咨询、集成、制造、销售、安装及技术服务。(以上项目国家有专项规定凭许可证或资质证经营)。</p>
+<p>看上市情况吧！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伤心！cloudflare的CDN有很多地方无法访问]]></title>
         <id>https://you.ci/post/6u-GQDO58/</id>
@@ -339,43 +363,6 @@ You.ci启用的是国别域名，近期观察搜索引擎的收录问题。<br>
 <p>60万不够赔。</p>
 <p>卒。</p>
 <p>*以上为模拟盘，莫当真。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻人的时代]]></title>
-        <id>https://you.ci/post/A2YJm40HL/</id>
-        <link href="https://you.ci/post/A2YJm40HL/">
-        </link>
-        <updated>2020-04-25T13:56:49.000Z</updated>
-        <summary type="html"><![CDATA[<p>有三个链接，可以带你到另外一些博客，发现另一个世界。<br>
-网址1为：<a href="https://travellings.now.sh/">https://travellings.now.sh/</a><br>
-网址2为：<a href="http://rss.foreverblog.cn/">http://rss.foreverblog.cn/</a><br>
-网址3为：<a href="https://storeweb.cn/navigator/rss">https://storeweb.cn/navigator/rss</a><br>
-发现有些博主属于初中生，高中生（14-18岁）。😲</p>
-<p>持有搜狗股票从11元持有到3元。最近倒是没怎么看股票了，看了心塞。<br>
-哔哩哔哩总市值近100亿；搜狗，近10亿。<br>
-原先以为百度既然落幕了，搜狗上吧，看有无可能对标Google，难于上青天。<br>
-搜狗最近陆续布局AI医疗，当做一个风险投资吧，反正已经亏损巨大。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>有三个链接，可以带你到另外一些博客，发现另一个世界。<br>
-网址1为：<a href="https://travellings.now.sh/">https://travellings.now.sh/</a><br>
-网址2为：<a href="http://rss.foreverblog.cn/">http://rss.foreverblog.cn/</a><br>
-网址3为：<a href="https://storeweb.cn/navigator/rss">https://storeweb.cn/navigator/rss</a><br>
-发现有些博主属于初中生，高中生（14-18岁）。😲</p>
-<p>持有搜狗股票从11元持有到3元。最近倒是没怎么看股票了，看了心塞。<br>
-哔哩哔哩总市值近100亿；搜狗，近10亿。<br>
-原先以为百度既然落幕了，搜狗上吧，看有无可能对标Google，难于上青天。<br>
-搜狗最近陆续布局AI医疗，当做一个风险投资吧，反正已经亏损巨大。</p>
-<!-- more -->
-<p>B站股价持续新高，看看财务报表，亏损。搜狗越跌越低，不过公司倒是盈利的。</p>
-<iframe id="spkj" src="https://player.bilibili.com/player.html?aid=840426401&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
-<script type="text/javascript">  
-document.getElementById("spkj").style.height=document.getElementById("spkj").scrollWidth*0.76+"px";
-</script>
-<p>搜狗模式是不是过时了？但是谷歌模式一直是NB的。</p>
-<p>既然是中国的YouTube，其实只要学习它放贴片广告，然后可以5秒跳过，哔哩哔哩是大概率可以盈利的。</p>
-<p>年轻人的时代，也有了博客，也有了哔哩哔哩。<br>
-我们早些人的时代，百度，博客，搜狗。</p>
 ]]></content>
     </entry>
 </feed>
