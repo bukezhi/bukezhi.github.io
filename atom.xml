@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-07T15:04:51.430Z</updated>
+    <updated>2020-05-09T05:01:34.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[手机桌面神器 - 讷鱼PWA]]></title>
+        <id>https://you.ci/post/3uBp4Pv7B/</id>
+        <link href="https://you.ci/post/3uBp4Pv7B/">
+        </link>
+        <updated>2020-05-09T04:34:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>将讷鱼首页丰富了一下，随机博客放到了内页，首页可以直连。<br>
+讷鱼首页也添加了PWA，安卓手机可以直接通过提示添加到手机桌面（PWA技术）。<br>
+苹果手机也可以手动添加讷鱼到手机主屏幕上。<br>
+👐<br>
+讷鱼最终是放弃了cloudflare回到了国内ALI云上。<br>
+暂时找了一些常用的网址。<br>
+后面可以直接通过讷鱼🐟：看博客，看视频，听音乐，看资讯，搜索等。</p>
+<p><strong>有次博客希望博友们启用PWA，也希望各大网站，互联网平台都开始启用PWA，（不要动不动就导流到APK,IOS下载，然后无节制读取手机隐私信息，扰乱系统👇）当用户都习惯这样方式，这样可以让轻应用，开放，内容丰富等成为手机互联网主流。</strong><br>
+🐬<br>
+手机记得访问：<a href="https://neyu.com">https://neyu.com</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>将讷鱼首页丰富了一下，随机博客放到了内页，首页可以直连。<br>
+讷鱼首页也添加了PWA，安卓手机可以直接通过提示添加到手机桌面（PWA技术）。<br>
+苹果手机也可以手动添加讷鱼到手机主屏幕上。<br>
+👐<br>
+讷鱼最终是放弃了cloudflare回到了国内ALI云上。<br>
+暂时找了一些常用的网址。<br>
+后面可以直接通过讷鱼🐟：看博客，看视频，听音乐，看资讯，搜索等。</p>
+<p><strong>有次博客希望博友们启用PWA，也希望各大网站，互联网平台都开始启用PWA，（不要动不动就导流到APK,IOS下载，然后无节制读取手机隐私信息，扰乱系统👇）当用户都习惯这样方式，这样可以让轻应用，开放，内容丰富等成为手机互联网主流。</strong><br>
+🐬<br>
+手机记得访问：<a href="https://neyu.com">https://neyu.com</a></p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1588999997715.gif" alt="" loading="lazy"></figure>
+<p>讷鱼整理了搜索等一些实用链接，还在整理中。<br>
+<img src="https://you.ci/post-images/1588999081174.png" alt="" loading="lazy"></p>
+<p>PWA，轻应用。不侵犯隐私。不占用手机空间。<br>
+<img src="https://you.ci/post-images/1588999174578.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[几年了！终于中签了新股601778]]></title>
         <id>https://you.ci/post/NH3NxiK5v/</id>
@@ -307,61 +342,6 @@ You.ci启用的是国别域名，近期观察搜索引擎的收录问题。<br>
 <p>昨天也试用了nodecache，速度也可以，但是经常502，一旦他不能快速获取到源站内容，会显示502错误，这个bug，感觉不好。</p>
 <p>阿里云的轻量云主机，以及全站加速海外部分，ping经常丢包。</p>
 <p>😧</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[糟心，追涨杀跌的性格得改一改]]></title>
-        <id>https://you.ci/post/zGF7-ihnS/</id>
-        <link href="https://you.ci/post/zGF7-ihnS/">
-        </link>
-        <updated>2020-04-26T03:46:58.000Z</updated>
-        <summary type="html"><![CDATA[<p>这波骚操作，算不上完美，但是也该记录人生的历史。。<br>
-2019年武汉刚需楼盘还算是一房难求，特别是光谷东（光谷祥云，中建星光城）；白沙洲区域的（万科云城，中建铂公馆，富强天惠园）；光谷南的（绿城兰园）等等。<br>
-需要刚需资格，参与zf摇号，根据循序买房。<br>
-很幸运，400多组刚需，摇到了30多号。买到了次顶楼（这波完美）。</p>
-<p>本人是一次性付款，不用贷款的那种（刚刚卖了老房子）。<br>
-房子选中后，售楼部缴纳了10万元定金。接着需要购房资格审核，网签合同，需要大约时间为1-2周左右。<br>
-房款一共200万，还有190万躺在卡里。</p>
-<p>正逢马上春节假期期间，估计正式合同与网签要到年后了。<br>
-根据以往的经验（确实是经验）；年底进入股市，年后出，大概率是盈利的。<br>
-<img src="https://you.ci/post-images/1587873878039.png" alt="" loading="lazy"><br>
-美其名曰：春节红包行情。</p>
-<p>为了严控风险，买的是低风险的价值股票投资基金。</p>
-<p>YQ来袭，假期后开盘低开。后来几天亏损大约10%，想着是房款，以免亏损过大，止损出局。</p>
-<p>190w只有170w左右了。<br>
-此时，不影响买房。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>这波骚操作，算不上完美，但是也该记录人生的历史。。<br>
-2019年武汉刚需楼盘还算是一房难求，特别是光谷东（光谷祥云，中建星光城）；白沙洲区域的（万科云城，中建铂公馆，富强天惠园）；光谷南的（绿城兰园）等等。<br>
-需要刚需资格，参与zf摇号，根据循序买房。<br>
-很幸运，400多组刚需，摇到了30多号。买到了次顶楼（这波完美）。</p>
-<p>本人是一次性付款，不用贷款的那种（刚刚卖了老房子）。<br>
-房子选中后，售楼部缴纳了10万元定金。接着需要购房资格审核，网签合同，需要大约时间为1-2周左右。<br>
-房款一共200万，还有190万躺在卡里。</p>
-<p>正逢马上春节假期期间，估计正式合同与网签要到年后了。<br>
-根据以往的经验（确实是经验）；年底进入股市，年后出，大概率是盈利的。<br>
-<img src="https://you.ci/post-images/1587873878039.png" alt="" loading="lazy"><br>
-美其名曰：春节红包行情。</p>
-<p>为了严控风险，买的是低风险的价值股票投资基金。</p>
-<p>YQ来袭，假期后开盘低开。后来几天亏损大约10%，想着是房款，以免亏损过大，止损出局。</p>
-<p>190w只有170w左右了。<br>
-此时，不影响买房。</p>
-<!-- more -->
-<p>再一波骚操作，A股居然在逐步回暖，想着如果晚出几天，其实可以回本的。懊恼了一下，看到美国股市狂跌，特别是美联航，跌幅50%，从100元附近跌到50元附近。<br>
-认真研究了一下美股历史，战争年代与08年金融危机，回调大约也就50%。<br>
-<strong>这行情要梭哈！</strong><br>
-<strong>170w抄底美股，说不定赚个300-400万。</strong><br>
-买了以后就没涨过，最低跌到20元，本金一下子到了70-80-100万。</p>
-<p>这下可不是金融危机的回调了，REITS有的都跌98%了。<br>
-割肉，大不了房子贷款，首付只要30%，60万也够买了。割肉回来本金100万。</p>
-<p>看啊看啊，看。。</p>
-<p>原油价格20元了，原油价格10几元了。</p>
-<p>原油价格曾经一度100多的，是流动的黄金。汽车要加油，是稀缺资源。买40万吧，留60万交首付。反正无所谓涨跌的。<br>
-结果跌到了0.01元。</p>
-<p>结果跌到了-37美元。</p>
-<p>60万不够赔。</p>
-<p>卒。</p>
-<p>*以上为模拟盘，莫当真。</p>
 ]]></content>
     </entry>
 </feed>
