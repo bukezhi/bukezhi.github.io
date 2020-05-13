@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-12T03:31:06.395Z</updated>
+    <updated>2020-05-13T04:35:43.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[手机互联网才刚刚开始]]></title>
+        <id>https://you.ci/post/ROkKnpwCr/</id>
+        <link href="https://you.ci/post/ROkKnpwCr/">
+        </link>
+        <updated>2020-05-13T04:23:23.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>特殊时期，想了很多关于手机互联网的问题？</strong></p>
+<p>目前的手机生态，感觉是封闭的，每个人的手机，下载了微信，抖音...，来来往往，都是那几个APP，中小站长，没有技术，费用去开发IOS,apk，手机对技术的门槛越来越高。<br>
+😖<br>
+而手机提供的内容，却是越来越少，当下手机互联网最多的也就是社交（私域流量）；购物，音乐，电影，相比之前PC时代的五花八门，手机互联网，因为屏幕与技术限制，局限了很多。<br>
+😳<br>
+最近，一直在关注PWA技术，总觉得，PWA这种模式，将是手机互联网多姿多彩的开端。<br>
+😬</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>特殊时期，想了很多关于手机互联网的问题？</strong></p>
+<p>目前的手机生态，感觉是封闭的，每个人的手机，下载了微信，抖音...，来来往往，都是那几个APP，中小站长，没有技术，费用去开发IOS,apk，手机对技术的门槛越来越高。<br>
+😖<br>
+而手机提供的内容，却是越来越少，当下手机互联网最多的也就是社交（私域流量）；购物，音乐，电影，相比之前PC时代的五花八门，手机互联网，因为屏幕与技术限制，局限了很多。<br>
+😳<br>
+最近，一直在关注PWA技术，总觉得，PWA这种模式，将是手机互联网多姿多彩的开端。<br>
+😬</p>
+<!-- more -->
+<p>卢松松博客链接：<a href="https://down.lusongsong.com/info/10088.html">https://down.lusongsong.com/info/10088.html</a></p>
+<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1589344340960.png" alt="" loading="lazy"></figure>
+<div align=center>
+<img src="file://E:/Program Files/boke/www/post-images/1589343888494.png"/>
+</div>
+<p>类似PC时代的HAO123，先要有导航，比如访问讷鱼，PWA会提示放到手机桌面，打开后，可以听音乐，看视频，直播，翻译，工具查询，而不必下载乱七八糟的各种APP，也不必担心手机隐私被泄露，轻应用，可以定义自己的导航页面，将支持PWA或者手机的网站加入到导航列表或添加到手机主屏幕。</p>
+<p>‘<img src="https://you.ci/post-images/1589344295387.png" alt="" loading="lazy"></p>
+<p>通过添加到主屏幕操作，手机屏幕可以迅速访问相关的应用，这些应用，不占用手机空间，不读取用户手机信息，可以无限收藏，可以逐步迈进手机互联网江湖。</p>
+<p>作为从业者，可以通过php，html，asp，Python等各种语言技术提供互联网服务，PC时代的技术够用，功能也足够完善。</p>
+<p>PWA是Progressive Web App的英文缩写， 翻译过来就是渐进式增强WEB应用， 是Google 在2016年提出的概念，2017年落地的web技术。目的就是在移动端利用提供的标准化框架，在网页应用中实现和原生应用相近的用户体验的渐进式网页应用。</p>
+<p>更何况，5G时代已经来了，后面可能都用不上PWA的缓存技术，直接云上响应。</p>
+<p>2019年我国网民规模达8.54亿，手机上网比例达99.1%。作为目前主流的几个互联网大厂，肯定是不希望PWA得到广泛应用的，他们希望你建小程序，微信小程序，支付宝程序，百度小程序等等。</p>
+<p>当年淘宝拒绝百度抓取，培养用户直接在淘宝上搜索的习惯，现在看来，是多么的高明。</p>
+<p>希望网站运营人员们可以重视PWA，也希望各大网站，互联网平台都开始启用PWA，（不要动不动就导流到APK,IOS下载，然后无节制读取手机隐私信息，扰乱系统）当用户都习惯这样方式，这样可以让轻应用，开放，内容丰富等成为手机互联网主流。</p>
+<p>或许，手机互联网才刚刚开始！<br>
+👏👏</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手机桌面神器 - 讷鱼PWA]]></title>
         <id>https://you.ci/post/3uBp4Pv7B/</id>
@@ -318,35 +358,6 @@ You.ci启用的是国别域名，近期观察搜索引擎的收录问题。<br>
 比如墨灵音乐。</p>
 <p>盈利模式很多都是打赏。<br>
 😳</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能不能不在乎钱，只在乎自己的爱好么]]></title>
-        <id>https://you.ci/post/QYP3xD26I/</id>
-        <link href="https://you.ci/post/QYP3xD26I/">
-        </link>
-        <updated>2020-04-26T04:39:59.000Z</updated>
-        <summary type="html"><![CDATA[<p>能。<br>
-追涨杀跌200万没了：<a href="https://you.ci/post/zGF7-ihnS/">https://you.ci/post/zGF7-ihnS/</a><br>
-无所谓其实，反正有地方住😛</p>
-<p>有次博客访问速度增加了不少，原因是接入了CDN，使用的是著名上市公司：<a href="https://dash.cloudflare.com/">https://dash.cloudflare.com/</a></p>
-<p>昨天<a href="https://2890.ltd/">OkYes</a>告诉了我一些网址优化的点。网站访问确实很慢。<br>
-而且GITHUB拒绝百度蜘蛛来访。</p>
-<p>启用CDN后，访问速度立竿见影，https证书都不用额外申请，直接启用就好。</p>
-<p>挺好。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>能。<br>
-追涨杀跌200万没了：<a href="https://you.ci/post/zGF7-ihnS/">https://you.ci/post/zGF7-ihnS/</a><br>
-无所谓其实，反正有地方住😛</p>
-<p>有次博客访问速度增加了不少，原因是接入了CDN，使用的是著名上市公司：<a href="https://dash.cloudflare.com/">https://dash.cloudflare.com/</a></p>
-<p>昨天<a href="https://2890.ltd/">OkYes</a>告诉了我一些网址优化的点。网站访问确实很慢。<br>
-而且GITHUB拒绝百度蜘蛛来访。</p>
-<p>启用CDN后，访问速度立竿见影，https证书都不用额外申请，直接启用就好。</p>
-<p>挺好。</p>
-<!-- more -->
-<p>昨天也试用了nodecache，速度也可以，但是经常502，一旦他不能快速获取到源站内容，会显示502错误，这个bug，感觉不好。</p>
-<p>阿里云的轻量云主机，以及全站加速海外部分，ping经常丢包。</p>
-<p>😧</p>
 ]]></content>
     </entry>
 </feed>
