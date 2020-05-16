@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-15T11:04:24.639Z</updated>
+    <updated>2020-05-16T03:05:34.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[武汉买房ing]]></title>
+        <id>https://you.ci/post/YgACwjLYp/</id>
+        <link href="https://you.ci/post/YgACwjLYp/">
+        </link>
+        <updated>2020-05-16T02:56:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>参与了YQ后第一次抢房，结果惨不忍睹。被PASS.😐<br>
+很多人说，武汉经此一役，房价基本OVER了。而现实上也确实看到，二手房在微跌，有些高负债买房的人群开始扛不住了。</p>
+<p>我是希望房价下跌的，因为房价下跌了，可以少奋斗多少年再买一套。<br>
+哔哩哔哩看到半佛对房子的看法，年轻人，如果想在这个城市立足，还是要买一套房的，中国人对房子的这种情愫，90后，00后应该都还没有发生改变。</p>
+<p>提交资料买房，虽然蛮懂互联网，结果也没提交成功，提交资料到名额爆满，只用了8秒。<br>
+鱼的记忆还有7秒呢？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>参与了YQ后第一次抢房，结果惨不忍睹。被PASS.😐<br>
+很多人说，武汉经此一役，房价基本OVER了。而现实上也确实看到，二手房在微跌，有些高负债买房的人群开始扛不住了。</p>
+<p>我是希望房价下跌的，因为房价下跌了，可以少奋斗多少年再买一套。<br>
+哔哩哔哩看到半佛对房子的看法，年轻人，如果想在这个城市立足，还是要买一套房的，中国人对房子的这种情愫，90后，00后应该都还没有发生改变。</p>
+<p>提交资料买房，虽然蛮懂互联网，结果也没提交成功，提交资料到名额爆满，只用了8秒。<br>
+鱼的记忆还有7秒呢？</p>
+<!-- more -->
+<p>武汉这房咋还是这么难买？</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1589598147360.jpg"/>
+</div>
+<p>提交资料中，已经提示活动已经结束：</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1589598159987.jpg"/>
+</div>
+<p>哪怕8秒钟提交成功了，还要参与zf摇号，后面买到的概率只有三分之一。如果要选定楼层与户型，中意的概率估计只有不到20分之一了。</p>
+<p>o(╥﹏╥)o</p>
+<p>武汉房子没有熄火。。。<br>
+年轻人需要安家落户。。。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全员检测]]></title>
         <id>https://you.ci/post/STKIQoOOk/</id>
@@ -318,47 +352,6 @@ You.ci启用的是国别域名，近期观察搜索引擎的收录问题。<br>
 以权相交，权失则弃；<br>
 以情相交，情断则伤；</p>
 <p>唯以心相交，方得始终。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[访问随机博客 - 讷鱼 - 游向某一片海洋]]></title>
-        <id>https://you.ci/post/neyu/</id>
-        <link href="https://you.ci/post/neyu/">
-        </link>
-        <updated>2020-05-01T02:43:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>讷鱼🐟：每次通过网址或手机主屏幕图标访问可以随机跳转到一个博客。</p>
-<p><strong>手机访问</strong>： <a href="https://neyu.com/">https://neyu.com/</a></p>
-<p><strong>跳转演示</strong>：<a href="https://neyu.com/blog.html">https://neyu.com/blog.html</a></p>
-<p>2020.5.11 讷鱼首页更换为导航类，直接在首页提示PWA桌面提示，点击随机博客，可以访问博客库的某一博客。详细可以阅读这个：<a href="https://you.ci/post/3uBp4Pv7B/">手机桌面神器 - 讷鱼PWA</a></p>
-<p>2020.5.5 <a href="https://neyu.com/pwa.html">https://neyu.com/pwa.html</a> 访问此网站安卓手机会自动提示添加到手机主屏幕，如果无法添加，需要设置打开浏览器“桌面快捷方式”权限。<br>
-2020.5.1 目前更新的博客库有1500多个。</p>
-<p>Other：<br>
-之前收集过互联网上博客的网址：<a href="https://you.ci/post/ZYXCWAXzv/">1309个独立博客</a> 😛<br>
-受开往与<a href="https://www.fenhan.net/134.html">奋韩</a>的启发。决定将废弃域名启用，讷鱼。</p>
-<p>1、本来是私人使用的，随机跳转到某一博客，发现一片蓝海🌊。</p>
-<p>2、与开往不同，讷鱼主动采集全网博客，<strong>重视手机体验</strong>，使用Python爬虫，根据变量因子，links等，分析源码，找到博客网址添加到讷鱼库或失效博客时刻上报。</p>
-<p>3、您也可以将博客加入到讷鱼库或报告失效博客。底部留言即可。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>讷鱼🐟：每次通过网址或手机主屏幕图标访问可以随机跳转到一个博客。</p>
-<p><strong>手机访问</strong>： <a href="https://neyu.com/">https://neyu.com/</a></p>
-<p><strong>跳转演示</strong>：<a href="https://neyu.com/blog.html">https://neyu.com/blog.html</a></p>
-<p>2020.5.11 讷鱼首页更换为导航类，直接在首页提示PWA桌面提示，点击随机博客，可以访问博客库的某一博客。详细可以阅读这个：<a href="https://you.ci/post/3uBp4Pv7B/">手机桌面神器 - 讷鱼PWA</a></p>
-<p>2020.5.5 <a href="https://neyu.com/pwa.html">https://neyu.com/pwa.html</a> 访问此网站安卓手机会自动提示添加到手机主屏幕，如果无法添加，需要设置打开浏览器“桌面快捷方式”权限。<br>
-2020.5.1 目前更新的博客库有1500多个。</p>
-<p>Other：<br>
-之前收集过互联网上博客的网址：<a href="https://you.ci/post/ZYXCWAXzv/">1309个独立博客</a> 😛<br>
-受开往与<a href="https://www.fenhan.net/134.html">奋韩</a>的启发。决定将废弃域名启用，讷鱼。</p>
-<p>1、本来是私人使用的，随机跳转到某一博客，发现一片蓝海🌊。</p>
-<p>2、与开往不同，讷鱼主动采集全网博客，<strong>重视手机体验</strong>，使用Python爬虫，根据变量因子，links等，分析源码，找到博客网址添加到讷鱼库或失效博客时刻上报。</p>
-<p>3、您也可以将博客加入到讷鱼库或报告失效博客。底部留言即可。</p>
-<!-- more -->
-<p><strong>重点：初衷是放到手机桌面，偶尔游一下，发现一下好玩的博客（所以美化了图标等信息）。一定要放手机桌面哈。</strong>（如下图）</p>
-<p>苹果手机：网址如何放在手机桌面奋韩博客有教程：<a href="https://www.fenhan.net/134.html">https://www.fenhan.net/134.html</a></p>
-<p>📌由于讷鱼2000毫秒转跳，所以添加到手机屏幕的时候，手速要快.</p>
-<div align=center>
-<img src="https://you.ci/post-images/1588301430950.jpg"/>
-</div>
-<p>🌞🙌</p>
 ]]></content>
     </entry>
 </feed>

@@ -86,6 +86,37 @@
       <div class="col-lg-8 col-md-10 mx-auto">
        
         <div class="post-preview">
+          <a href="https://you.ci/post/Hq7OZUave/">
+            <h2 class="post-title">
+              服务器磁盘（inode信息）占用100%解决办法
+            </h2>
+            </a>
+            <h3 class="post-subtitle">
+              <p>某服务器停机3个多月了，现在才发现。<br>
+mysql始终始终无法启动。<br>
+通过后台强制启动服务器，链接SSH。<br>
+代码：df -h  以及 df -i （查看磁盘以及inode占用率。）<br>
+代码：cd /  （返回根目录）<br>
+代码：du -sh * （查看那个目录占用空间大）</p>
+<p>针对网站服务器，一般是网站日志占用空间大，或者mysql的日志。<br>
+一般位置在如下：<br>
+/www/server/panel/logs/ （mysql日志位置）<br>
+/www/wwwlogs/ （网站访问日志位置）<br>
+找到后删除。<br>
+服务器出现莫名的问题，一般是磁盘爆满，这个要记好。</p>
+
+            </h3>
+          <p class="post-meta">
+             <span class="time">2020-04-16</span>
+             <span>,</span>
+             <span class="post-stats">1 min read</span>
+            </p>
+        </div>
+        <hr>
+        <div class="clearfix">
+        </div>
+        
+        <div class="post-preview">
           <a href="https://you.ci/post/4vHjJodh8/">
             <h2 class="post-title">
               分享：Typecho博客系统防黑客教程（Typecho安全加固指南）
@@ -317,28 +348,6 @@ PHPWAMP：phpwamp.com<br>
             </h3>
           <p class="post-meta">
              <span class="time">2020-04-07</span>
-             <span>,</span>
-             <span class="post-stats">1 min read</span>
-            </p>
-        </div>
-        <hr>
-        <div class="clearfix">
-        </div>
-        
-        <div class="post-preview">
-          <a href="https://you.ci/post/-DOK5oxBW/">
-            <h2 class="post-title">
-              2020.4.4全国哀悼
-            </h2>
-            </a>
-            <h3 class="post-subtitle">
-              <p>今天是灰色的。<br>
-疫情，改变了我们的生活。<br>
-多苦多难只会让人更爱它。</p>
-
-            </h3>
-          <p class="post-meta">
-             <span class="time">2020-04-04</span>
              <span>,</span>
              <span class="post-stats">1 min read</span>
             </p>
