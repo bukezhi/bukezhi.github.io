@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-16T03:05:34.726Z</updated>
+    <updated>2020-05-16T03:58:29.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[营销思路再整理]]></title>
+        <id>https://you.ci/post/R1-b3OYDL/</id>
+        <link href="https://you.ci/post/R1-b3OYDL/">
+        </link>
+        <updated>2020-05-16T03:48:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>2020年开始，收入方面真的是断崖式下跌。支出还是那么多，面临着房贷，人员工资等七七八八费用，压力很大。<br>
+😑<br>
+特别是PC时代，感觉已经过去了。<br>
+过去十年，在PC时代算得上是收获满满，YQ期间手机流量在度爆发，部分玩抖音的赚得盆满钵满。<br>
+😵<br>
+趁着年轻，扬帆起航。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2020年开始，收入方面真的是断崖式下跌。支出还是那么多，面临着房贷，人员工资等七七八八费用，压力很大。<br>
+😑<br>
+特别是PC时代，感觉已经过去了。<br>
+过去十年，在PC时代算得上是收获满满，YQ期间手机流量在度爆发，部分玩抖音的赚得盆满钵满。<br>
+😵<br>
+趁着年轻，扬帆起航。</p>
+<!-- more -->
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1589601283502.jpg"/>
+</div>
+<p>对接好产品，做好网上的渠道与推广。化繁为简，完善流程，并坚持。</p>
+<p>lets go!</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[武汉买房ing]]></title>
         <id>https://you.ci/post/YgACwjLYp/</id>
@@ -319,39 +346,6 @@ PS：找到了：idealclover<a href="https://idealclover.top/archives/612/">当�
 <p>doge的备案截图：<br>
 <img src="https://you.ci/post-images/1588469037758.jpg" alt="" loading="lazy"></p>
 <p>只要做好用户体验，小网站有大未来。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有次博客，独立访客近1000^_^啦！]]></title>
-        <id>https://you.ci/post/Q4rRD6ldN/</id>
-        <link href="https://you.ci/post/Q4rRD6ldN/">
-        </link>
-        <updated>2020-05-01T14:36:46.000Z</updated>
-        <summary type="html"><![CDATA[<p>今天上线了讷鱼，加上很多地方外链，博客单日访问量接近1000.<br>
-You.ci启用的是国别域名，近期观察搜索引擎的收录问题。<br>
-百度蜘蛛基本没来过，甚至放上百度统计都无法统计出数据，在想bug在哪里。</p>
-<p>通过蜘蛛日志分析，谷歌来的很勤快。🌎</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>今天上线了讷鱼，加上很多地方外链，博客单日访问量接近1000.<br>
-You.ci启用的是国别域名，近期观察搜索引擎的收录问题。<br>
-百度蜘蛛基本没来过，甚至放上百度统计都无法统计出数据，在想bug在哪里。</p>
-<p>通过蜘蛛日志分析，谷歌来的很勤快。🌎</p>
-<!-- more -->
-<blockquote>
-<p>百度：严进宽出<br>
-谷歌：宽进严出</p>
-</blockquote>
-<p>有没有很像国内外的大学制度。</p>
-<p>因为是博客，也无所谓搜索引擎的收录。反而是否可以得到博友们的认可。<br>
-<img src="https://you.ci/post-images/1588344607122.jpg" alt="" loading="lazy"><br>
-之前每天也就100-200之间，到了半夜，一个有700-800左右的独立访客。</p>
-<p>比较珍惜有次博客，也会珍惜认识的每一位博友。<br>
-👬</p>
-<p>以利相交，利尽则散；<br>
-以势相交，势败则倾；<br>
-以权相交，权失则弃；<br>
-以情相交，情断则伤；</p>
-<p>唯以心相交，方得始终。</p>
 ]]></content>
     </entry>
 </feed>
