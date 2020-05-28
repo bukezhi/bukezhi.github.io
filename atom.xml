@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-28T06:09:54.398Z</updated>
+    <updated>2020-05-28T06:28:40.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,47 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[创业成本还是很大]]></title>
+        <id>https://you.ci/post/PgEGv7YVu/</id>
+        <link href="https://you.ci/post/PgEGv7YVu/">
+        </link>
+        <updated>2020-05-28T06:17:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>上班3天有余了。<br>
+😒<br>
+自己参与一些项目的实际操作，发现因为不是爱好，很多地方真是很吃力。<br>
+😵<br>
+我们是立志把中国机械销往全球，先从搜索引擎开始的，网站的没一个细节，代码，自己参与，眼花缭乱的。<br>
+😕<br>
+于是到了中午就很困。</p>
+<p>为什么要创业，很简单，因为手上有了一些闲钱。<br>
+美股暴跌后，重仓的航空股回来了一些。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>上班3天有余了。<br>
+😒<br>
+自己参与一些项目的实际操作，发现因为不是爱好，很多地方真是很吃力。<br>
+😵<br>
+我们是立志把中国机械销往全球，先从搜索引擎开始的，网站的没一个细节，代码，自己参与，眼花缭乱的。<br>
+😕<br>
+于是到了中午就很困。</p>
+<p>为什么要创业，很简单，因为手上有了一些闲钱。<br>
+美股暴跌后，重仓的航空股回来了一些。</p>
+<!-- more -->
+<p>有意思的是A股持有的某娱，8元钱买入，一直到现在，价格到了36附近。8元进，14元出，本金出完。<br>
+后面全部是盈利，18,34,36都出了一些。</p>
+<p>每次的利润大概也有50+了，还有大约30%的仓位，想着弥补了些亏损还有盈余，来创业吧。</p>
+<p>场地：5000每月<br>
+包中餐：一天平均200元<br>
+个人交通费，停车费：每天50元。<br>
+需要发放的工资：5000客服+7000技术+6000技术=18000每月+医保社保支付=21000左右成本。<br>
+本人参与暂时不计入成本。</p>
+<p>服务器，域名，杂七杂八，推广费，等。<br>
+每月成本可以控制在3-5万之间。</p>
+<p>50万大概是可以支撑一年左右不盈利。<br>
+特别是不懂英文，有没参与过google，ww也是最近开通的。</p>
+<p>创业，不易。。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杂记]]></title>
         <id>https://you.ci/post/n-Jr1RpG7/</id>
@@ -315,36 +356,6 @@ PS：找到了：idealclover<a href="https://idealclover.top/archives/612/">当�
 创造者日报M端首页2020.5.6<br>
 <img src="https://you.ci/post-images/1588769108843.jpg" alt="" loading="lazy"></p>
 <p>创造者日报也启用了PWA，很多年轻的程序员的博客也启用了这一技术。请注意🤙</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太难了]]></title>
-        <id>https://you.ci/post/2KpU-tipi/</id>
-        <link href="https://you.ci/post/2KpU-tipi/">
-        </link>
-        <updated>2020-05-04T01:09:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>黑客派算是经常去逛的一个论坛，无意中看到官方微信公众号推送了一篇文章：<a href="https://mp.weixin.qq.com/s/iFh8-jq16Ml4P2VdFNN9BQ">公司 6 个月没开工资，我在家办公努力工作，却被说傻？！</a>。</p>
-<p>这么优秀的程序员，也碰到了难处。🌠</p>
-<p>最近几天，也收到了不少电话，关于借钱的。</p>
-<p>窟窿都比较大，几十万的级别。🍵</p>
-<p>看了看自己的房贷，信用卡，看了看自己已经半年没有运营的公司，刚刚投入的一些设备，还没有开动。</p>
-<p>倒是没有看股票余额，每次看完，睡不着觉，索性就不看了。</p>
-<p>同感忧愁。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>黑客派算是经常去逛的一个论坛，无意中看到官方微信公众号推送了一篇文章：<a href="https://mp.weixin.qq.com/s/iFh8-jq16Ml4P2VdFNN9BQ">公司 6 个月没开工资，我在家办公努力工作，却被说傻？！</a>。</p>
-<p>这么优秀的程序员，也碰到了难处。🌠</p>
-<p>最近几天，也收到了不少电话，关于借钱的。</p>
-<p>窟窿都比较大，几十万的级别。🍵</p>
-<p>看了看自己的房贷，信用卡，看了看自己已经半年没有运营的公司，刚刚投入的一些设备，还没有开动。</p>
-<p>倒是没有看股票余额，每次看完，睡不着觉，索性就不看了。</p>
-<p>同感忧愁。</p>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1588554801314.jpg" alt="" loading="lazy"></figure>
-<p>🈶车🈶房。</p>
-<p>结果车房将自己变成了蜗牛。</p>
-<p>太难了。</p>
-<p><strong>只是通过这个事情，告诫我们：不要透支，不要成为负资产的人。</strong></p>
-<p>真抗不下去了，至少还可以卖车买房。</p>
 ]]></content>
     </entry>
 </feed>
