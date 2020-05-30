@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-05-28T09:56:41.508Z</updated>
+    <updated>2020-05-30T01:32:14.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[发现讷鱼的一个新功能]]></title>
+        <id>https://you.ci/post/6ps9azWlL/</id>
+        <link href="https://you.ci/post/6ps9azWlL/">
+        </link>
+        <updated>2020-05-30T01:22:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>使用Chrome浏览器访问：<a href="https://neyu.com/">https://neyu.com/</a>，因为有PWA功能，访问的时候，浏览器右边会出现一个安装按钮。如图：</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590801889681.png"/>
+</div>
+<p>点击安装后，电脑的桌面就会出现该图标的快捷方式，如图：</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>使用Chrome浏览器访问：<a href="https://neyu.com/">https://neyu.com/</a>，因为有PWA功能，访问的时候，浏览器右边会出现一个安装按钮。如图：</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590801889681.png"/>
+</div>
+<p>点击安装后，电脑的桌面就会出现该图标的快捷方式，如图：</p>
+<!-- more -->
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590801932475.jpg"/>
+</div>
+<p>然后点击图标，可以类似访问软件一样访问这个页面，如图：</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590801960796.png"/>
+</div>
+<p>讷鱼只是用于练手的一个实验域名，这样的话，PWA是通用手机端与电脑端的，是将网页程序化，类似手机端PWA将某一页面缓存，变成了类APP，通用任何手机。</p>
+<p>PC端，将该网页软件化，像是运行一个程序一般去运行。</p>
+<p>真的很方便。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5.25项目成立 5.28第一个客户询价]]></title>
         <id>https://you.ci/post/oL3u7pZc6/</id>
@@ -296,33 +326,6 @@ SEM+SEO。</p>
 <figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1588863559805.jpg" alt="" loading="lazy"></figure>
 <p>晶科科技：太阳能光伏发电及其应用系统工程的设计、咨询、集成、制造、工程安装、调试;上述发电系统电子产品、太阳能建筑装饰材料、太阳能照明设备的设计、咨询、集成、制造、销售、安装及技术服务。(以上项目国家有专项规定凭许可证或资质证经营)。</p>
 <p>看上市情况吧！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伤心！cloudflare的CDN有很多地方无法访问]]></title>
-        <id>https://you.ci/post/6u-GQDO58/</id>
-        <link href="https://you.ci/post/6u-GQDO58/">
-        </link>
-        <updated>2020-05-07T12:39:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>网站无法放到国内，这个访问速度真成了一个大问题。😭<br>
-本来是托管在Github里面的，Github有时候是访问特别慢。</p>
-<p>后来套了cloudflare的CND，电信上开始算是挺快了。<br>
-可谁知，有部分移动，联通网络无法访问，网上搜索了一下，可能是qiang了部分cloudflare的IP。</p>
-<p>🥺🥺🥺</p>
-<p>YOU.CI只好暂时改回到Github上。</p>
-<p>如果换回阿里云CDN或全站加速：需要申请ssh证书。部署，每年一换。<br>
-cloudflare直接自动https，功能强大，免费。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>网站无法放到国内，这个访问速度真成了一个大问题。😭<br>
-本来是托管在Github里面的，Github有时候是访问特别慢。</p>
-<p>后来套了cloudflare的CND，电信上开始算是挺快了。<br>
-可谁知，有部分移动，联通网络无法访问，网上搜索了一下，可能是qiang了部分cloudflare的IP。</p>
-<p>🥺🥺🥺</p>
-<p>YOU.CI只好暂时改回到Github上。</p>
-<p>如果换回阿里云CDN或全站加速：需要申请ssh证书。部署，每年一换。<br>
-cloudflare直接自动https，功能强大，免费。</p>
-<!-- more -->
-<p>讷鱼也是使用的cloudflare📌。</p>
 ]]></content>
     </entry>
 </feed>
