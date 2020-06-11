@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-06-05T15:21:55.869Z</updated>
+    <updated>2020-06-11T13:56:20.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[阿LI云的轻量服务器，HK服务器，别买！]]></title>
+        <id>https://you.ci/post/vbLW8Ea5t/</id>
+        <link href="https://you.ci/post/vbLW8Ea5t/">
+        </link>
+        <updated>2020-06-11T13:45:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>可能是阿LI云客户量太大了，因为项目网站暂未备案，最近买了比较多的HK服务器，有轻量服务器，有ECS.<br>
+新的IP端，ping一下。<br>
+丢包，延迟。<br>
+安装过Typecho博客系统，真的，访问巨慢。<br>
+如果宽带选择1m的，上传下载几十kb，打开十几秒。<br>
+😑<br>
+原来的阿LI云不是这样的啊！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>可能是阿LI云客户量太大了，因为项目网站暂未备案，最近买了比较多的HK服务器，有轻量服务器，有ECS.<br>
+新的IP端，ping一下。<br>
+丢包，延迟。<br>
+安装过Typecho博客系统，真的，访问巨慢。<br>
+如果宽带选择1m的，上传下载几十kb，打开十几秒。<br>
+😑<br>
+原来的阿LI云不是这样的啊！</p>
+<!-- more -->
+<p>创业公司，对服务器延迟要求比较高，百度后台看一下，抓取非常吃力，自己访问也吃力。</p>
+<p>弃用。</p>
+<p>200多一年的轻量云服务器，700多一年的ECS。都丢了吧。</p>
+<p>只好在朋友推荐的的不知名的小空间商，直连的HK服务器，打开速度，延迟在20ms左右，非常棒。<br>
+主要一年只要100多的费用。<br>
+不可思议。<br>
+而且这个主机商业存在了近10年了，应该短期不会跑路！</p>
+<p>是不是客户太多了啊，亲。<br>
+比如现在打开：<a href="https://www.fenhan.net">https://www.fenhan.net</a>,速度是好了很多。<br>
+但是比如<a href="https://neyu.com">https://neyu.com</a>，巨慢，百度也爬不到数据，干脆也不收录了吧！</p>
+<p>有次博客在github，听说是拒绝百度蜘蛛抓取的。访问速度马马虎虎。反正阿LI云，这样情况，让人伤心。<br>
+吐槽。。。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[都回来了]]></title>
         <id>https://you.ci/post/MqL2XORdD/</id>
@@ -318,42 +354,6 @@ SEM+SEO。</p>
 <a href="https://down.lusongsong.com/info/10088.html">https://down.lusongsong.com/info/10088.html</a></p>
 <p>讷鱼：<br>
 <a href="https://neyu.com">https://neyu.com</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手机桌面神器 - 讷鱼PWA]]></title>
-        <id>https://you.ci/post/3uBp4Pv7B/</id>
-        <link href="https://you.ci/post/3uBp4Pv7B/">
-        </link>
-        <updated>2020-05-09T04:34:26.000Z</updated>
-        <summary type="html"><![CDATA[<p>将讷鱼首页丰富了一下，随机博客放到了内页，首页可以直连。<br>
-讷鱼首页也添加了PWA，安卓手机可以直接通过提示添加到手机桌面（PWA技术）。<br>
-苹果手机也可以手动添加讷鱼到手机主屏幕上。<br>
-👐<br>
-讷鱼最终是放弃了cloudflare回到了国内ALI云上。<br>
-暂时找了一些常用的网址。<br>
-后面可以直接通过讷鱼🐟：看博客，看视频，听音乐，看资讯，搜索等。</p>
-<p><strong>有次博客希望博友们启用PWA，也希望各大网站，互联网平台都开始启用PWA，（不要动不动就导流到APK,IOS下载，然后无节制读取手机隐私信息，扰乱系统👇）当用户都习惯这样方式，这样可以让轻应用，开放，内容丰富等成为手机互联网主流。</strong><br>
-🐬<br>
-手机记得访问：<a href="https://neyu.com">https://neyu.com</a></p>
-]]></summary>
-        <content type="html"><![CDATA[<p>将讷鱼首页丰富了一下，随机博客放到了内页，首页可以直连。<br>
-讷鱼首页也添加了PWA，安卓手机可以直接通过提示添加到手机桌面（PWA技术）。<br>
-苹果手机也可以手动添加讷鱼到手机主屏幕上。<br>
-👐<br>
-讷鱼最终是放弃了cloudflare回到了国内ALI云上。<br>
-暂时找了一些常用的网址。<br>
-后面可以直接通过讷鱼🐟：看博客，看视频，听音乐，看资讯，搜索等。</p>
-<p><strong>有次博客希望博友们启用PWA，也希望各大网站，互联网平台都开始启用PWA，（不要动不动就导流到APK,IOS下载，然后无节制读取手机隐私信息，扰乱系统👇）当用户都习惯这样方式，这样可以让轻应用，开放，内容丰富等成为手机互联网主流。</strong><br>
-🐬<br>
-手机记得访问：<a href="https://neyu.com">https://neyu.com</a></p>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://you.ci/post-images/1588999997715.gif" alt="" loading="lazy"></figure>
-<p>讷鱼使用了js-cookie插件，可以在本地做一些个性化设置（记得备份）。<br>
-整理了搜索等一些实用链接，还在整理中。<br>
-<img src="https://you.ci/post-images/1588999081174.png" alt="" loading="lazy"></p>
-<p>PWA，轻应用。不侵犯隐私。不占用手机空间。<br>
-<img src="https://you.ci/post-images/1588999174578.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
