@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-06-23T14:27:11.168Z</updated>
+    <updated>2020-06-25T14:45:32.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[一条路走到黑]]></title>
+        <id>https://you.ci/post/cItuYDrow/</id>
+        <link href="https://you.ci/post/cItuYDrow/">
+        </link>
+        <updated>2020-06-25T14:38:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>遇到困难的时候，总会质疑之前做的决定。</p>
+<p>彷徨就成为了当时的代名词。</p>
+<p>一条路走到黑？谈何容易。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>遇到困难的时候，总会质疑之前做的决定。</p>
+<p>彷徨就成为了当时的代名词。</p>
+<p>一条路走到黑？谈何容易。</p>
+<!-- more -->
+<p>Sea Limited买入的价格大约是10元左右，早些年一直是看好的，YQ期间35左右清仓，满仓了美联航。</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1593096149248.jpg"/>
+</div>
+<p>当时觉得自己的决定是对的。</p>
+<p>这个是股票，就像搜狗一般，10元到现在的4元，坚持了一条道走到黑。</p>
+<p>投资不同创业。</p>
+<p>创业若是亏损，总想着出局。<br>
+但是一旦盈利，会持续跟进。</p>
+<p>股票却相反了。</p>
+<p>反人性是一个可怕的思维。</p>
+<p>创业路上，不问盈亏，一条路到黑。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手机啊，手机！]]></title>
         <id>https://you.ci/post/ZBRtO-Kbs/</id>
@@ -334,40 +362,6 @@ SEM+SEO。</p>
 </div>
 <p>对接好产品，做好网上的渠道与推广。化繁为简，完善流程，并坚持。</p>
 <p>lets go!</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武汉买房ing]]></title>
-        <id>https://you.ci/post/YgACwjLYp/</id>
-        <link href="https://you.ci/post/YgACwjLYp/">
-        </link>
-        <updated>2020-05-16T02:56:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>参与了YQ后第一次抢房，结果惨不忍睹。被PASS.😐<br>
-很多人说，武汉经此一役，房价基本OVER了。而现实上也确实看到，二手房在微跌，有些高负债买房的人群开始扛不住了。</p>
-<p>我是希望房价下跌的，因为房价下跌了，可以少奋斗多少年再买一套。<br>
-哔哩哔哩看到半佛对房子的看法，年轻人，如果想在这个城市立足，还是要买一套房的，中国人对房子的这种情愫，90后，00后应该都还没有发生改变。</p>
-<p>提交资料买房，虽然蛮懂互联网，结果也没提交成功，提交资料到名额爆满，只用了8秒。<br>
-鱼的记忆还有7秒呢？</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>参与了YQ后第一次抢房，结果惨不忍睹。被PASS.😐<br>
-很多人说，武汉经此一役，房价基本OVER了。而现实上也确实看到，二手房在微跌，有些高负债买房的人群开始扛不住了。</p>
-<p>我是希望房价下跌的，因为房价下跌了，可以少奋斗多少年再买一套。<br>
-哔哩哔哩看到半佛对房子的看法，年轻人，如果想在这个城市立足，还是要买一套房的，中国人对房子的这种情愫，90后，00后应该都还没有发生改变。</p>
-<p>提交资料买房，虽然蛮懂互联网，结果也没提交成功，提交资料到名额爆满，只用了8秒。<br>
-鱼的记忆还有7秒呢？</p>
-<!-- more -->
-<p>武汉这房咋还是这么难买？</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1589598147360.jpg"/>
-</div>
-<p>提交资料中，已经提示活动已经结束：</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1589598159987.jpg"/>
-</div>
-<p>哪怕8秒钟提交成功了，还要参与zf摇号，后面买到的概率只有三分之一。如果要选定楼层与户型，中意的概率估计只有不到20分之一了。</p>
-<p>o(╥﹏╥)o</p>
-<p>武汉房子没有熄火。。。<br>
-年轻人需要安家落户。。。</p>
 ]]></content>
     </entry>
 </feed>
