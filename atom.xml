@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-06-28T04:49:37.103Z</updated>
+    <updated>2020-06-30T14:10:11.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[FB这个注册机制，太严格]]></title>
+        <id>https://you.ci/post/NnwRvhlZr/</id>
+        <link href="https://you.ci/post/NnwRvhlZr/">
+        </link>
+        <updated>2020-06-30T14:00:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>因为做外贸，打算注册一个FB使用一下，一般链接外网都是用的代理。<br>
+用GG的邮箱授权登录，注册，一会儿，提示：</p>
+<p><strong>你无法使用 Facebook，因为你的帐户或帐户活动未遵守我们的社群守则。</strong></p>
+<p>然后没法，提起申诉，填写手机号码等资料，几天后，收到通知，无法解封。</p>
+<p>好吧。</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1593526161365.png"/>
+</div>
+]]></summary>
+        <content type="html"><![CDATA[<p>因为做外贸，打算注册一个FB使用一下，一般链接外网都是用的代理。<br>
+用GG的邮箱授权登录，注册，一会儿，提示：</p>
+<p><strong>你无法使用 Facebook，因为你的帐户或帐户活动未遵守我们的社群守则。</strong></p>
+<p>然后没法，提起申诉，填写手机号码等资料，几天后，收到通知，无法解封。</p>
+<p>好吧。</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1593526161365.png"/>
+</div>
+<!-- more -->
+<p>又过了几天，用单独的手机号注册，结果一注册，又是一样的提示，直接注册即封号。</p>
+<p><strong>你无法使用 Facebook，因为你的帐户或帐户活动未遵守我们的社群守则。我们已完成复审，这项决定无法撤销。如需详细了解帐户停用原因，请查看社群守则。</strong></p>
+<p>👍</p>
+<p>几个可能：<br>
+1、代理IP，使用人数太多，该IP下注册直接封号。<br>
+2、信息不真实。<br>
+3、注册环境不安全。</p>
+<p>Facebook 社群守则：</p>
+<p>真实可信：我们希望确保用户在 Facebook 看到真实的内容。我们坚信，真实性有助于打造更好的分享环境。因此，我们不希望 Facebook 用户掩盖自己的真实身份或行为。</p>
+<p>安全：我们致力于将 Facebook 打造成为一个安全的平台。威胁他人的内容可能会令人感到恐惧、受到排斥或陷入沉默，Facebook 不允许发布这些内容。</p>
+<p>隐私：我们致力于保护个人隐私和个人信息。保护隐私有助于用户享受表达自由，并自由选择他们在 Facebook 分享的方式和时间，以及更轻松地交流互动。</p>
+<p>尊严：我们认为，所有人的尊严和权利都是平等的。我们希望用户尊重他人的尊严，不骚扰或贬低他人。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一条路走到黑]]></title>
         <id>https://you.ci/post/cItuYDrow/</id>
@@ -335,33 +373,6 @@ SEM+SEO。</p>
 <p>一起期待美好的互联网明天吧。</p>
 <p>外贸网址大全：<a href="https://neyu.com/waimao/">https://neyu.com/waimao/</a></p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[营销思路再整理]]></title>
-        <id>https://you.ci/post/R1-b3OYDL/</id>
-        <link href="https://you.ci/post/R1-b3OYDL/">
-        </link>
-        <updated>2020-05-16T03:48:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>2020年开始，收入方面真的是断崖式下跌。支出还是那么多，面临着房贷，人员工资等七七八八费用，压力很大。<br>
-😑<br>
-特别是PC时代，感觉已经过去了。<br>
-过去十年，在PC时代算得上是收获满满，YQ期间手机流量在度爆发，部分玩抖音的赚得盆满钵满。<br>
-😵<br>
-趁着年轻，扬帆起航。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2020年开始，收入方面真的是断崖式下跌。支出还是那么多，面临着房贷，人员工资等七七八八费用，压力很大。<br>
-😑<br>
-特别是PC时代，感觉已经过去了。<br>
-过去十年，在PC时代算得上是收获满满，YQ期间手机流量在度爆发，部分玩抖音的赚得盆满钵满。<br>
-😵<br>
-趁着年轻，扬帆起航。</p>
-<!-- more -->
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1589601283502.jpg"/>
-</div>
-<p>对接好产品，做好网上的渠道与推广。化繁为简，完善流程，并坚持。</p>
-<p>lets go!</p>
 ]]></content>
     </entry>
 </feed>
