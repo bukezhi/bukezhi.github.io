@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-06-30T14:10:11.528Z</updated>
+    <updated>2020-07-01T13:52:56.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,54 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[股指期货IF、IC、IH赚钱买天选姬]]></title>
+        <id>https://you.ci/post/eYTWdgMxY/</id>
+        <link href="https://you.ci/post/eYTWdgMxY/">
+        </link>
+        <updated>2020-07-01T13:41:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>上证指数终于突破3000点了。<br>
+一个重要的心理关口。<br>
+最近研究了一下股指期货，打算买入一手，持有，然后盈利一个几万，换一个笔记本。</p>
+<p>不知道行不行得通。</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1593611413238.gif"/>
+</div>
+]]></summary>
+        <content type="html"><![CDATA[<p>上证指数终于突破3000点了。<br>
+一个重要的心理关口。<br>
+最近研究了一下股指期货，打算买入一手，持有，然后盈利一个几万，换一个笔记本。</p>
+<p>不知道行不行得通。</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1593611413238.gif"/>
+</div>
+<!-- more -->
+陈总说股指期货是期货中的女神，不好掌控。
+<p>但是我倒是看好后面股指的后市，赚钱效应已经开始显现，后面的韭菜会慌忙入场。</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1593611097074.jpg"/>
+</div>
+<p>如果不贪心，赚几个笔记本就走，还是是有概率的。</p>
+<p>保证金大约15万。先操作模拟几天研究下股指期货，很危险的游戏。<sup>_</sup></p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1593611230164.png"/>
+</div>
+基本知识：
+<p>IF：沪深300股指</p>
+<p>IH：上证50股指</p>
+<p>IC：中证500股指</p>
+<p>IF和IH是一个点300块，IC是一个点200块。</p>
+<p>期指三品种之间的关系有以下五个方面：</p>
+<p>1.指数间关系。上证50成分股选取了沪深300成分股中市值最大的50只股票，即上证50指数成分股完全包含于沪深300指数。中证500指数剔除了沪深300指数成分股，即中证500和沪深300指数成分股没有任何交集。</p>
+<p>2.市值分布。上证50成分股为超大市值股票，平均市值超过1000亿元。中证500指数成分股市值分布的核心区间为100亿—300亿元，主要为中等市值股票。沪深300指数成分股主要为中大市值股票。简言之，平均市值排序如下：上证50&gt;沪深300&gt;中证500。</p>
+<p>3.行业分布。上证50指数成分股集中于金融板块，非银金融和银行股占上证50的权重合计超过65%。沪深300指数成分股主要集中于金融、制造业等周期性股票，其中金融板块的权重最大，为36%。中证500指数成分股的行业分布较为均匀，没有单一行业权重超过10%的情况。权重最大的两个行业分别为医药生物9.17%和房地产8.89%。简言之，行业分散程度排序为：中证500&gt;沪深300&gt;上证50。</p>
+<p>4.指数估值。上证50指数估值长期处于市场较低的水平，主要体现为价值股的特征。中证500的估值明显高于上证50和沪深300，主要体现为成长股的特征。沪深300指数则介于两者之间。简言之，指数估值高低排序为：中证500&gt;沪深300&gt;上证50。</p>
+<p>5.抗操纵性。指数抗操纵性可以用冲击成本指标来衡量，其主要受到市场规模、成分股集中度等因素影响。经过测算，指数抗操纵性排序为：沪深300&gt;中证500&gt;上证50。</p>
+<p>从新品种上市对行情影响角度来看，2010年4月16日沪深300股指期货上市后，指数曾出现了较大幅度的调整。至此，市场上便产生了做空工具上市将引发行情下跌的看法。但事实果真如此吗?为此，我们统计了全球主要资本市场的证券指数在股指期货上市前后的表现。结果表明，在首个股指期货品种上市后，指数多数表现为推出前上涨，推出后短期下跌。从中长期来看，指数走势较为分化，其主要取决于证券市场整体的基本面情况。</p>
+<p>结合我国的实际情况，沪深300股指期货上市基本印证了“上市前涨、上市后短期下跌”的结论。但具体到上证50和中证500股指期货，并不能直接得出指数一定会短期下跌这样的结论。很典型的一个例子就是上证50ETF期权上市后，认购期权和标的ETF都录得了不小涨幅。</p>
+<p>后面还有期权要研究。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FB这个注册机制，太严格]]></title>
         <id>https://you.ci/post/NnwRvhlZr/</id>
@@ -343,36 +391,6 @@ SEA买入的时候15元，卖掉的时候45元，现在90元。<br>
 <p>50万大概是可以支撑一年左右不盈利。<br>
 特别是不懂英文，有没参与过google，ww也是最近开通的。</p>
 <p>创业，不易。。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杂记]]></title>
-        <id>https://you.ci/post/n-Jr1RpG7/</id>
-        <link href="https://you.ci/post/n-Jr1RpG7/">
-        </link>
-        <updated>2020-05-25T06:11:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>2020年5月25日，外贸业务正式开始启动了。<br>
-🌏也有了标语：XXX-把中国机械销往全球。</p>
-<p>提前几周左右提交了商标注册，打算是启用某三字母com域名的。<br>
-最近看了很多关于google的内容，觉得SEO这块，google是有搞头的。</p>
-<p>至于卖机械，因为有机械的资源。<br>
-但是外贸不懂，一面学，一面做。</p>
-<p>两个全职+一个兼职运营+一个兼职建站。<br>
-SEM+SEO。</p>
-<p>一起期待美好的互联网明天吧。</p>
-<p>外贸网址大全：<a href="https://neyu.com/waimao/">https://neyu.com/waimao/</a></p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2020年5月25日，外贸业务正式开始启动了。<br>
-🌏也有了标语：XXX-把中国机械销往全球。</p>
-<p>提前几周左右提交了商标注册，打算是启用某三字母com域名的。<br>
-最近看了很多关于google的内容，觉得SEO这块，google是有搞头的。</p>
-<p>至于卖机械，因为有机械的资源。<br>
-但是外贸不懂，一面学，一面做。</p>
-<p>两个全职+一个兼职运营+一个兼职建站。<br>
-SEM+SEO。</p>
-<p>一起期待美好的互联网明天吧。</p>
-<p>外贸网址大全：<a href="https://neyu.com/waimao/">https://neyu.com/waimao/</a></p>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>
