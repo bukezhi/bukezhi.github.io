@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-07-06T02:40:03.742Z</updated>
+    <updated>2020-07-10T04:07:01.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,71 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[老华带你飞：80后站长看到的自己]]></title>
+        <id>https://you.ci/post/YDWwFep7h/</id>
+        <link href="https://you.ci/post/YDWwFep7h/">
+        </link>
+        <updated>2020-07-10T03:38:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>因为之前看过【半佛】学股票吗亲？倾家荡产的那种视频（见上一篇）。<br>
+后来打开B站，推荐了一个视频，意思是对比半佛和老华，谁说的对。<br>
+🤡<br>
+于是我找到了老华的B站，其中一个视频是：我花了7000万现金买了腾讯的股票，【一亿资金】炒股实盘。<br>
+看完了，觉得不错，于是看了一下他的网站，APP，教程。<br>
+🐬<br>
+他公司网站：米课圈：https://www.imiker.com/<br>
+他的个人博客：http://www.mrhua.net/</p>
+<p>83的他碰上了互联网最好的时光，如同大部分80后站长一样，通过网站，百度，谷歌，电商迅速获取第一桶金。<br>
+有很多雷同，拥有了区别于同龄人的大额财产后，开始进行三元投资。<br>
+一元：自己参与的天使投资，项目投资。<br>
+二元：房产，不断买入当地房产。<br>
+三元：股票，持有优质股票不放手。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>因为之前看过【半佛】学股票吗亲？倾家荡产的那种视频（见上一篇）。<br>
+后来打开B站，推荐了一个视频，意思是对比半佛和老华，谁说的对。<br>
+🤡<br>
+于是我找到了老华的B站，其中一个视频是：我花了7000万现金买了腾讯的股票，【一亿资金】炒股实盘。<br>
+看完了，觉得不错，于是看了一下他的网站，APP，教程。<br>
+🐬<br>
+他公司网站：米课圈：https://www.imiker.com/<br>
+他的个人博客：http://www.mrhua.net/</p>
+<p>83的他碰上了互联网最好的时光，如同大部分80后站长一样，通过网站，百度，谷歌，电商迅速获取第一桶金。<br>
+有很多雷同，拥有了区别于同龄人的大额财产后，开始进行三元投资。<br>
+一元：自己参与的天使投资，项目投资。<br>
+二元：房产，不断买入当地房产。<br>
+三元：股票，持有优质股票不放手。</p>
+<!-- more -->
+<p>80后最好的运气是遇到互联网爆发，第二好的运气是遇到房地产暴涨，第三大运气是遇到股市牛市。<br>
+生活在深圳的80后白领们，因为早期买了自己的房子，目前房子的总价，是自己家庭工资多少年的总和。</p>
+<p>与老华一样，很多站长生活在二三线城市，南京，武汉，房产增值没有深圳那么暴利，但是相对于其他，还是赚了许多。</p>
+<p>老华有很多观点，是认同的。<br>
+投资类的三元投资。<br>
+思考问题的底层逻辑。<br>
+做事认真。<br>
+不要敌对看待有钱人。<br>
+....<br>
+🐡</p>
+<p>对于股市投资，也是有太多的认可。<br>
+买入优秀的公司，长线持有。<br>
+每次回调，都是买入的机会。<br>
+不想持股10年，就不要持股1分钟。<br>
+买入有想象空间，增长迅猛的公司。<br>
+熟读巴菲特。<br>
+...</p>
+<iframe src="//player.bilibili.com/player.html?aid=94309295&bvid=BV1DE411p7FF&cid=161003274&page=1" scrolling="no" frameborder="0" width="100%" height="550"></iframe>
+<p>🚗<br>
+目前股票停止了前进者的横冲直闯，开始调整。<br>
+是时候要表演真正的技术了。<br>
+🐍<br>
+今天看到新闻：首尔市长自杀。<br>
+有些悲伤。<br>
+🐜<br>
+80后的小部分站长，雷同老华一样，通过三元投资达到了自己的财务自由。<br>
+但是，心里一直有一个小遗憾。<br>
+不同于X.COM的马斯克。<br>
+<strong>我们还没有出现一个可以封神的站长。</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[股指期货账户还没有下来，股价已经到了目标点位]]></title>
         <id>https://you.ci/post/gu-AC7oJn/</id>
@@ -368,34 +433,6 @@ SEA买入的时候15元，卖掉的时候45元，现在90元。<br>
 <p>讷鱼只是用于练手的一个实验域名，这样的话，PWA是通用手机端与电脑端的，是将网页程序化，类似手机端PWA将某一页面缓存，变成了类APP，通用任何手机。</p>
 <p>PC端，将该网页软件化，像是运行一个程序一般去运行。</p>
 <p>真的很方便。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5.25项目成立 5.28第一个客户询价]]></title>
-        <id>https://you.ci/post/oL3u7pZc6/</id>
-        <link href="https://you.ci/post/oL3u7pZc6/">
-        </link>
-        <updated>2020-05-28T09:47:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>把中国机械销往全球 - 再打一遍鸡血。</p>
-<p>5.28日，终于迎来了第一位加了微信，并咨询报价的准客户。后面成不成单也是要看天意了，因为有人询价，提振了对项目的信心。</p>
-<p>网址于5.27上线，推广费花了大约6元，SEM方面刚刚接触，很多不懂，每天的消费不足6元（关键字与出价问题）。</p>
-<p>挖掘机属于重工行业，利润点也不高。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>把中国机械销往全球 - 再打一遍鸡血。</p>
-<p>5.28日，终于迎来了第一位加了微信，并咨询报价的准客户。后面成不成单也是要看天意了，因为有人询价，提振了对项目的信心。</p>
-<p>网址于5.27上线，推广费花了大约6元，SEM方面刚刚接触，很多不懂，每天的消费不足6元（关键字与出价问题）。</p>
-<p>挖掘机属于重工行业，利润点也不高。</p>
-<!-- more -->
-<p>但是有人询价，是很高兴的。</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590659465741.png"/>
-</div>
-<p>不过可以预料到：投入的SEO成本，在哪天搜索引擎，特别是google排名前三的时候，询价，客源可能是非常不错的。</p>
-<p>挖掘机，推土机，装载机，都要卖，<sup>_</sup>😀</p>
-<p>@<a href="https://www.skyue.com/">SKYue</a> 官网还在设计制作，有眉目了后指点指点哈。</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590659554200.jpg"/>
-</div>
 ]]></content>
     </entry>
 </feed>
