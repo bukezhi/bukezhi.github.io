@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-07-13T02:09:47.776Z</updated>
+    <updated>2020-07-15T03:12:17.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[一进去就暴跌]]></title>
+        <id>https://you.ci/post/aEgySKFht/</id>
+        <link href="https://you.ci/post/aEgySKFht/">
+        </link>
+        <updated>2020-07-15T03:07:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>好不容易开好户，想着做一笔短线吧。<br>
+于是今天早上起来，进了一手IC2007.<br>
+结果好了，现在一看，爆亏。</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1594782494535.png"/>
+</div>
+第一笔就这样了。
+哈哈，证明了自己还是韭菜，吭哧吭哧的。
+]]></summary>
+        <content type="html"><![CDATA[<p>好不容易开好户，想着做一笔短线吧。<br>
+于是今天早上起来，进了一手IC2007.<br>
+结果好了，现在一看，爆亏。</p>
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1594782494535.png"/>
+</div>
+第一笔就这样了。
+哈哈，证明了自己还是韭菜，吭哧吭哧的。
+<!-- more -->
+<p>以后对于这样的保证金产品，尽量还是不玩。</p>
+<p>切记：<br>
+<strong>短线+保证金=不好玩！</strong></p>
+<p>花钱买教训，反过来一想，万一我一进场，就盈利好几万，这些开心了，会不必麻痹大意。<br>
+市场是无情的。<br>
+这一下，几个月工资有没了。<br>
+o(╥﹏╥)o</p>
+<p>不好玩啊，这下，实力亏损。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老华带你飞：80后站长看到的自己]]></title>
         <id>https://you.ci/post/YDWwFep7h/</id>
@@ -403,36 +437,6 @@ SEA买入的时候15元，卖掉的时候45元，现在90元。<br>
 因为SEA至今无法盈利，怕只是到头来一场空，想抓住一些实在的企业，做传统行业。<br>
 反正都要飞的，市盈率这么低，又给了买入的机会。</p>
 <p>美联航暂时是不打算卖了，哪怕再次跌到17元。3年后看结果。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现讷鱼的一个新功能]]></title>
-        <id>https://you.ci/post/6ps9azWlL/</id>
-        <link href="https://you.ci/post/6ps9azWlL/">
-        </link>
-        <updated>2020-05-30T01:22:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>使用Chrome浏览器访问：<a href="https://neyu.com/">https://neyu.com/</a>，因为有PWA功能，访问的时候，浏览器右边会出现一个安装按钮。如图：</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590801889681.png"/>
-</div>
-<p>点击安装后，电脑的桌面就会出现该图标的快捷方式，如图：</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>使用Chrome浏览器访问：<a href="https://neyu.com/">https://neyu.com/</a>，因为有PWA功能，访问的时候，浏览器右边会出现一个安装按钮。如图：</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590801889681.png"/>
-</div>
-<p>点击安装后，电脑的桌面就会出现该图标的快捷方式，如图：</p>
-<!-- more -->
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590801932475.jpg"/>
-</div>
-<p>然后点击图标，可以类似访问软件一样访问这个页面，如图：</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1590801960796.png"/>
-</div>
-<p>讷鱼只是用于练手的一个实验域名，这样的话，PWA是通用手机端与电脑端的，是将网页程序化，类似手机端PWA将某一页面缓存，变成了类APP，通用任何手机。</p>
-<p>PC端，将该网页软件化，像是运行一个程序一般去运行。</p>
-<p>真的很方便。</p>
 ]]></content>
     </entry>
 </feed>
