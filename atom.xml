@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-07-26T04:12:52.450Z</updated>
+    <updated>2020-07-26T04:15:30.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[New Day！]]></title>
+        <id>https://you.ci/post/CUwaFXw-8/</id>
+        <link href="https://you.ci/post/CUwaFXw-8/">
+        </link>
+        <updated>2020-07-26T04:14:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>待编辑~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>待编辑~</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一进去就暴跌]]></title>
         <id>https://you.ci/post/aEgySKFht/</id>
@@ -388,57 +400,6 @@ vivo，华为，在软件优化方面，感觉是不如小米的。</p>
 但是比如<a href="https://neyu.com">https://neyu.com</a>，巨慢，百度也爬不到数据，干脆也不收录了吧！</p>
 <p>有次博客在github，听说是拒绝百度蜘蛛抓取的。访问速度马马虎虎。反正阿LI云，这样情况，让人伤心。<br>
 吐槽。。。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都回来了]]></title>
-        <id>https://you.ci/post/MqL2XORdD/</id>
-        <link href="https://you.ci/post/MqL2XORdD/">
-        </link>
-        <updated>2020-06-05T15:06:03.000Z</updated>
-        <summary type="html"><![CDATA[<p>好久没有看股票账户，怕看了心痛。<br>
-干脆就不去关注了，反正没什么杠杆，也不会爆仓，想着等个几年在看看吧。<br>
-😝<br>
-结果，美国发生暴动，因为黑人事件，闹得沸沸扬扬。<br>
-心想：<br>
-这下完了，美股估计又要崩了。</p>
-<p>可是，又有一个重大的消息出现了。<br>
-SpaceX火箭载人上天了。马斯克一举封神。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>好久没有看股票账户，怕看了心痛。<br>
-干脆就不去关注了，反正没什么杠杆，也不会爆仓，想着等个几年在看看吧。<br>
-😝<br>
-结果，美国发生暴动，因为黑人事件，闹得沸沸扬扬。<br>
-心想：<br>
-这下完了，美股估计又要崩了。</p>
-<p>可是，又有一个重大的消息出现了。<br>
-SpaceX火箭载人上天了。马斯克一举封神。</p>
-<!-- more -->
-<p>受到过太多的质疑，困难，它还是飞上去了。可以说，马斯克是我们站长圈的骄傲，他持有的域名（X.COM）也是牛X的域名。</p>
-<p>X系列，特斯拉，Space，X的梦想。</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1591369865491.gif"/>
-</div>
-<p>无聊打开雪球，<strong>都回来了</strong>！<br>
-美联航，从50元开始买入，是卖了SEA,因赛特等我之前比较看好的企业而买入的美联航。<br>
-后来因为持续下跌，加了杠杆。</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1591370045198.jpg"/>
-</div>
-到了30元的时候，杠杆有些高了。
-结果跌到17元附近。20多的时候，也加仓了不少。
-<p>杠杆让人寝食难安，不能因为一只股票，而导致全盘皆输。<br>
-在20多的时候，平掉了部分美联航，加上港股的农业银行。将杠杆率降低到了1.0X系数。</p>
-<p>便没看了。<br>
-SEA买入的时候15元，卖掉的时候45元，现在90元。<br>
-因赛特买入的时候80多元，卖掉的时候70多元，现在近100元。</p>
-<p>都押注到了美联航。</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1591370256729.png"/>
-<p>都回来了，不怎么亏了，也没赚到。<br>
-因为SEA至今无法盈利，怕只是到头来一场空，想抓住一些实在的企业，做传统行业。<br>
-反正都要飞的，市盈率这么低，又给了买入的机会。</p>
-<p>美联航暂时是不打算卖了，哪怕再次跌到17元。3年后看结果。</p>
 ]]></content>
     </entry>
 </feed>
