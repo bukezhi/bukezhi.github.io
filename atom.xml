@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-07-26T04:15:30.602Z</updated>
+    <updated>2020-08-03T05:52:39.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -11,15 +11,36 @@
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
     <entry>
-        <title type="html"><![CDATA[New Day！]]></title>
+        <title type="html"><![CDATA[最近干了哈？杂记]]></title>
         <id>https://you.ci/post/CUwaFXw-8/</id>
         <link href="https://you.ci/post/CUwaFXw-8/">
         </link>
         <updated>2020-07-26T04:14:21.000Z</updated>
-        <summary type="html"><![CDATA[<p>待编辑~</p>
+        <summary type="html"><![CDATA[<p>1、没买天选姬，买了两台台式机，以后打算用台式机了。<br>
+2、一个23.8寸的144hz的电竞小钢炮，一个34寸的小米带鱼屏，一个放家里，一个放办公地方。<br>
+3、主机都在3000以内，攀升以及另外一个，8核12线程，cpu很强大，rx580显卡。玩游戏没跑了。<br>
+4、推荐ikbc的机械键盘，打字真还可以，一定要买104键的，87的不方便。<br>
+5、股票亏了不少，看的也少了。<br>
+6、项目暂时没有起色。<br>
+7、最近打算再买一套房子，学区房，顶级学区房。<br>
+8、最近学习了很多关于学区的知识，包括学区房政策，投资价值，房源，普高率，上线率等数据。<br>
+9、本来想买一个摩托车，但是好看一点的很多水车。<br>
+10、于是想着买个电瓶车看看，结果武汉这几天暴热，真的受不了。<br>
+11、买房千万不要买顶楼，我住顶楼，微波炉。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>待编辑~</p>
+        <content type="html"><![CDATA[<p>1、没买天选姬，买了两台台式机，以后打算用台式机了。<br>
+2、一个23.8寸的144hz的电竞小钢炮，一个34寸的小米带鱼屏，一个放家里，一个放办公地方。<br>
+3、主机都在3000以内，攀升以及另外一个，8核12线程，cpu很强大，rx580显卡。玩游戏没跑了。<br>
+4、推荐ikbc的机械键盘，打字真还可以，一定要买104键的，87的不方便。<br>
+5、股票亏了不少，看的也少了。<br>
+6、项目暂时没有起色。<br>
+7、最近打算再买一套房子，学区房，顶级学区房。<br>
+8、最近学习了很多关于学区的知识，包括学区房政策，投资价值，房源，普高率，上线率等数据。<br>
+9、本来想买一个摩托车，但是好看一点的很多水车。<br>
+10、于是想着买个电瓶车看看，结果武汉这几天暴热，真的受不了。<br>
+11、买房千万不要买顶楼，我住顶楼，微波炉。</p>
 <!-- more -->
+<p>12、杂记，看博客有点少了，要恢复看博客的习惯。</p>
 ]]></content>
     </entry>
     <entry>
