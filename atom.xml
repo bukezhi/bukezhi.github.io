@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-08-03T05:52:39.752Z</updated>
+    <updated>2020-08-07T01:56:47.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[小米34寸带鱼屏，PUBG LITE，好玩@！]]></title>
+        <id>https://you.ci/post/uwLnCddYA/</id>
+        <link href="https://you.ci/post/uwLnCddYA/">
+        </link>
+        <updated>2020-08-07T01:25:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>小米显示器拼多多百亿补贴买的，1870元左右，带鱼屏。<br>
+3440*1440，屏幕像一条带鱼，所以简称带鱼屏，很nice。<br>
+屏幕是超过预期的好用，但是也有大bug，分辨率太大，非常费显卡，查询了一下，如果玩PUBG，顶级配置，目前市面上没有显卡与之匹配，于是，如此大的类似4K的显示器，显卡用量特别大。<br>
+于是在玩PUBG的时候，能感觉到有少许卡顿。<br>
+😏<br>
+这可是144HZ的显示器。我的显卡目前是RX580.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>小米显示器拼多多百亿补贴买的，1870元左右，带鱼屏。<br>
+3440*1440，屏幕像一条带鱼，所以简称带鱼屏，很nice。<br>
+屏幕是超过预期的好用，但是也有大bug，分辨率太大，非常费显卡，查询了一下，如果玩PUBG，顶级配置，目前市面上没有显卡与之匹配，于是，如此大的类似4K的显示器，显卡用量特别大。<br>
+于是在玩PUBG的时候，能感觉到有少许卡顿。<br>
+😏<br>
+这可是144HZ的显示器。我的显卡目前是RX580.</p>
+<!-- more -->
+<div align=center>
+<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1596763867691.jpg"/>
+</div>
+<p>但是可以下载PUBG LITE，玩起来完全不卡，非常流畅，而且更容易吃鸡，适合新手玩。<br>
+玩PUBG的时候，基本S不到两个人，但是玩PUBG LITE有时候可以S十几个，因为有了提示，以及机器人在里面，适合类似我这样的新手。<br>
+😑<br>
+键盘一定要买机械键盘，买过茶牰；红轴，青轴，个人偏向茶轴，万能键盘。<br>
+青轴噼里啪啦的响，键盘也硬一些，茶牰中和。<br>
+打字也不怎么喜欢青轴。</p>
+<p>带鱼屏可以多核办公，桌面wx两个，不用最小化，侃大山，这边写日志，那边看视频，那边还可以看文件，还可以看行情。</p>
+<p>多好。<br>
+买一个带鱼屏试试哈~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近干了哈？杂记]]></title>
         <id>https://you.ci/post/CUwaFXw-8/</id>
@@ -385,42 +419,6 @@ vivo，华为，在软件优化方面，感觉是不如小米的。</p>
 </div>
 <p>因为有次博客，才在YQ以后，开始创业。<br>
 迎难而上，并不是要赚多少钱，而且因为YQ，开始懂得，走一条路，会牵过多少人的手！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿LI云的轻量服务器，HK服务器，别买！]]></title>
-        <id>https://you.ci/post/vbLW8Ea5t/</id>
-        <link href="https://you.ci/post/vbLW8Ea5t/">
-        </link>
-        <updated>2020-06-11T13:45:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>可能是阿LI云客户量太大了，因为项目网站暂未备案，最近买了比较多的HK服务器，有轻量服务器，有ECS.<br>
-新的IP端，ping一下。<br>
-丢包，延迟。<br>
-安装过Typecho博客系统，真的，访问巨慢。<br>
-如果宽带选择1m的，上传下载几十kb，打开十几秒。<br>
-😑<br>
-原来的阿LI云不是这样的啊！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>可能是阿LI云客户量太大了，因为项目网站暂未备案，最近买了比较多的HK服务器，有轻量服务器，有ECS.<br>
-新的IP端，ping一下。<br>
-丢包，延迟。<br>
-安装过Typecho博客系统，真的，访问巨慢。<br>
-如果宽带选择1m的，上传下载几十kb，打开十几秒。<br>
-😑<br>
-原来的阿LI云不是这样的啊！</p>
-<!-- more -->
-<p>创业公司，对服务器延迟要求比较高，百度后台看一下，抓取非常吃力，自己访问也吃力。</p>
-<p>弃用。</p>
-<p>200多一年的轻量云服务器，700多一年的ECS。都丢了吧。</p>
-<p>只好在朋友推荐的的不知名的小空间商，直连的HK服务器，打开速度，延迟在20ms左右，非常棒。<br>
-主要一年只要100多的费用。<br>
-不可思议。<br>
-而且这个主机商业存在了近10年了，应该短期不会跑路！</p>
-<p>是不是客户太多了啊，亲。<br>
-比如现在打开：<a href="https://www.fenhan.net">https://www.fenhan.net</a>,速度是好了很多。<br>
-但是比如<a href="https://neyu.com">https://neyu.com</a>，巨慢，百度也爬不到数据，干脆也不收录了吧！</p>
-<p>有次博客在github，听说是拒绝百度蜘蛛抓取的。访问速度马马虎虎。反正阿LI云，这样情况，让人伤心。<br>
-吐槽。。。</p>
 ]]></content>
     </entry>
 </feed>
