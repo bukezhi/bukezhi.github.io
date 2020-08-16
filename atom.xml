@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-08-14T17:25:27.797Z</updated>
+    <updated>2020-08-16T03:06:18.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
     <rights>All rights reserved 2020, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[如果我有10万USD，美股如何配置仓位？]]></title>
+        <id>https://you.ci/post/SdXJ-jxVr/</id>
+        <link href="https://you.ci/post/SdXJ-jxVr/">
+        </link>
+        <updated>2020-08-16T02:51:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>这几天我一直在想一个问题，如果有10万美元，如何配置美股仓位。<br>
+分成10份，每份1万美元，仓位分成721仓位。<br>
+7成买入确定性高的股票；<br>
+2成买入分红稍有风险的股票；<br>
+1成买入风险股票，未来可能上涨10倍的大牛股。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这几天我一直在想一个问题，如果有10万美元，如何配置美股仓位。<br>
+分成10份，每份1万美元，仓位分成721仓位。<br>
+7成买入确定性高的股票；<br>
+2成买入分红稍有风险的股票；<br>
+1成买入风险股票，未来可能上涨10倍的大牛股。</p>
+<!-- more -->
+<p>7成的仓位应该配置这些股票：BRK；APPLE；亚马逊；标普500指数；FAANG；<br>
+2成的仓位可能这样配置：英特尔；LMT；农业银行；<br>
+1成的仓位可能这样配置：爱奇艺；贝壳；特斯拉；SEA；<br>
+🤞<br>
+特别是1成的那个牛股，太难了。<br>
+奈飞(NASDAQ:NFLX)从2002年的0.35美元，涨到现在2020年的480元，涨幅1300多倍。<br>
+股市还是有很多传奇。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下一个牛股到底是哪个？]]></title>
         <id>https://you.ci/post/JLRAlk3IG/</id>
@@ -372,54 +399,6 @@ o(╥﹏╥)o</p>
 <p>股票却相反了。</p>
 <p>反人性是一个可怕的思维。</p>
 <p>创业路上，不问盈亏，一条路到黑。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手机啊，手机！]]></title>
-        <id>https://you.ci/post/ZBRtO-Kbs/</id>
-        <link href="https://you.ci/post/ZBRtO-Kbs/">
-        </link>
-        <updated>2020-06-20T14:29:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>从苹果4开始，一直用苹果，一直用到iphoneX。<br>
-当时的X是有128G内存，足够大，足够好用。<br>
-后来，由于有双开的需求，开始转型到安卓机器的怀抱。<br>
-第一台安卓机器：锤子(smartisan) 6GB+128GB 黑色，大约使用了一年。<br>
-锤子手机，简约的界面，完美的UI，在换手机过渡期间，起到了很好的作用，但是锤子手机是在是太丑，不得已在网上买了一个手机壳，手机壳好看，但是笨重。<br>
-加上配置低，就换了小米公司，红米K20pro，12g+256运行3个微信，各个应用都可以双开，某一微信占用了约50G空间，手机也不怎么卡。<br>
-确实是比苹果方便多了，基本也没怎么遇到过卡顿。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>从苹果4开始，一直用苹果，一直用到iphoneX。<br>
-当时的X是有128G内存，足够大，足够好用。<br>
-后来，由于有双开的需求，开始转型到安卓机器的怀抱。<br>
-第一台安卓机器：锤子(smartisan) 6GB+128GB 黑色，大约使用了一年。<br>
-锤子手机，简约的界面，完美的UI，在换手机过渡期间，起到了很好的作用，但是锤子手机是在是太丑，不得已在网上买了一个手机壳，手机壳好看，但是笨重。<br>
-加上配置低，就换了小米公司，红米K20pro，12g+256运行3个微信，各个应用都可以双开，某一微信占用了约50G空间，手机也不怎么卡。<br>
-确实是比苹果方便多了，基本也没怎么遇到过卡顿。</p>
-<!-- more -->
-<p>可惜在疫情期间开车门的时候不小心摔了，然后700元换了一个原装屏幕，但是用着到现在几个月，屏幕明显有缺陷，排线的问题，经常显示一条花线。</p>
-<p>618换手机吧。<br>
-第一台：vivo 的 iQOO Neo3，2899元购入，12g+128+144显示屏。流畅度完全没问题，打开软件很快，网速也很快，支持5G的，能双开的软件只有微信，QQ，完全没有小米系统全面。<br>
-小米做到了几乎所有软件都可以双开+双系统。</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1592665295234.jpg"/>
-</div>
-侧边指纹解锁，骁龙865的cpu，快。
-可惜，打开软件的时候，软件有时候会跳一下，然后在全面屏。强迫症很不适应。
-可能双开助手可以解决其他软件多开的需求，但是UI图标丑。
-不想用，先留着吧。
-<p>第二台：红米K30 5g 版 8+128g，1888元购入，120hz流速屏。没有买pro12G版本的，是因为，还是用的伸缩的前置摄像头，侧边指纹解锁很实用。伸缩是在是没有什么需求。<br>
-买的是红色，骚~~</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1592665941920.jpg"/>
-</div>
-用着，感觉手机比K20大了不少，太大了。
-比K20pro不同的是，这个系统居然没有搭配google的三件套。愁不愁人~
-<p>现在没有足够动力换机使用，但是每次看到K20那条坏掉的线，想着换那个手机好用一些。<br>
-小米系统做的足够好了。<br>
-vivo，华为，在软件优化方面，感觉是不如小米的。</p>
-<p>换手机，其实是换一种使用习惯。</p>
-<p>如果K20pro，cpu换成865，加入侧边指纹解锁，就好了。</p>
-<p>生活没有如果。</p>
 ]]></content>
     </entry>
 </feed>
