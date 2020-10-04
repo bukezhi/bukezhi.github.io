@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-10-04T10:51:00.090Z</updated>
+    <updated>2020-10-04T11:02:37.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 有次</rights>
     <entry>
         <title type="html"><![CDATA[30岁+《减肥心经》]]></title>
-        <id>https://you.ci/post/_8jHqW_UR/</id>
-        <link href="https://you.ci/post/_8jHqW_UR/">
+        <id>https://you.ci/post/8jHqW_UR/</id>
+        <link href="https://you.ci/post/8jHqW_UR/">
         </link>
         <updated>2020-10-04T08:18:22.000Z</updated>
         <summary type="html"><![CDATA[<p>感谢薇，帮我开始规划身体，避免未来胖化。人到30+，身体机能开始下降，记录薇《减肥心经》。<br>
@@ -52,8 +52,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[备忘录：whmjjq]]></title>
-        <id>https://you.ci/post/_SyTPg6S-/</id>
-        <link href="https://you.ci/post/_SyTPg6S-/">
+        <id>https://you.ci/post/SyTPg6S51/</id>
+        <link href="https://you.ci/post/SyTPg6S51/">
         </link>
         <updated>2020-10-02T17:44:27.000Z</updated>
         <summary type="html"><![CDATA[<p>上下家的牌很关键，懂得取舍很关键。<br>
