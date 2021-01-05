@@ -2,14 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://you.ci</id>
     <title>有次</title>
-    <updated>2020-10-15T16:46:20.615Z</updated>
+    <updated>2021-01-05T04:03:52.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://you.ci"/>
     <link rel="self" href="https://you.ci/atom.xml"/>
     <subtitle>&lt;img src=&quot;https://v2.jinrishici.com/one.svg?font-size=22&amp;spacing=2&amp;color=white&quot;&gt;</subtitle>
     <logo>https://you.ci/images/avatar.png</logo>
     <icon>https://you.ci/favicon.ico</icon>
-    <rights>All rights reserved 2020, 有次</rights>
+    <rights>All rights reserved 2021, 有次</rights>
+    <entry>
+        <title type="html"><![CDATA[Win10企业版本激活方法（有效）]]></title>
+        <id>https://you.ci/post/mGqXPmIcn/</id>
+        <link href="https://you.ci/post/mGqXPmIcn/">
+        </link>
+        <updated>2021-01-05T04:00:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>右键管理员身份运行cmd，或者直接Win键+X，直接打开Windows Powershell（管理员），粘贴下面的命令即可。</p>
+<p>slmgr /skms kms.03k.org<br>
+slmgr /ato</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>右键管理员身份运行cmd，或者直接Win键+X，直接打开Windows Powershell（管理员），粘贴下面的命令即可。</p>
+<p>slmgr /skms kms.03k.org<br>
+slmgr /ato</p>
+<!-- more -->
+<p>测试有效。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10万块也是钱]]></title>
         <id>https://you.ci/post/rHePQny31/</id>
@@ -356,42 +373,6 @@
 11、买房千万不要买顶楼，我住顶楼，微波炉。</p>
 <!-- more -->
 <p>12、杂记，看博客有点少了，要恢复看博客的习惯。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一进去就暴跌]]></title>
-        <id>https://you.ci/post/aEgySKFht/</id>
-        <link href="https://you.ci/post/aEgySKFht/">
-        </link>
-        <updated>2020-07-15T03:07:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>好不容易开好户，想着做一笔短线吧。<br>
-于是今天早上起来，进了一手IC2007.<br>
-结果好了，现在一看，爆亏。<br>
-😖<br>
-第一笔就这样了。<br>
-哈哈，证明了自己还是韭菜，吭哧吭哧的。</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1594782494535.png"/>
-</div>
-]]></summary>
-        <content type="html"><![CDATA[<p>好不容易开好户，想着做一笔短线吧。<br>
-于是今天早上起来，进了一手IC2007.<br>
-结果好了，现在一看，爆亏。<br>
-😖<br>
-第一笔就这样了。<br>
-哈哈，证明了自己还是韭菜，吭哧吭哧的。</p>
-<div align=center>
-<img src="https://cdn.jsdelivr.net/gh/bukezhi/bukezhi.github.io/post-images/1594782494535.png"/>
-</div>
-<!-- more -->
-<p>以后对于这样的保证金产品，尽量还是不玩。</p>
-<p>切记：<br>
-<strong>短线+保证金=不好玩！</strong></p>
-<p>花钱买教训，反过来一想，万一我一进场，就盈利好几万，这些开心了，会不必麻痹大意。<br>
-市场是无情的。<br>
-这一下，几个月工资有没了。<br>
-o(╥﹏╥)o</p>
-<p>不好玩啊，这下，实力亏损。</p>
 ]]></content>
     </entry>
 </feed>
